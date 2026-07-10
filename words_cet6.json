@@ -1,0 +1,3838 @@
+[
+  {
+    "word": "abnormal",
+    "pos": "a.",
+    "meaning": "反常的，异常的",
+    "ukphone": "æbˈnɔːml",
+    "usphone": "æbˈnɔːrml"
+  },
+  {
+    "word": "abolish",
+    "pos": "vt.",
+    "meaning": "废除，取消",
+    "ukphone": "əˈbɒlɪʃ",
+    "usphone": "əˈbɑːlɪʃ"
+  },
+  {
+    "word": "absorb",
+    "pos": "vt.",
+    "meaning": "吸收；吸引",
+    "ukphone": "əbˈzɔːb",
+    "usphone": "əbˈzɔːrb"
+  },
+  {
+    "word": "abstract",
+    "pos": "a.",
+    "meaning": "抽象的",
+    "ukphone": "ˈæbstrækt",
+    "usphone": "ˈæbstrækt"
+  },
+  {
+    "word": "absurd",
+    "pos": "a.",
+    "meaning": "荒谬的",
+    "ukphone": "əbˈsɜːd",
+    "usphone": "əbˈsɜːrd"
+  },
+  {
+    "word": "abundant",
+    "pos": "a.",
+    "meaning": "丰富的，大量的",
+    "ukphone": "əˈbʌndənt",
+    "usphone": "əˈbʌndənt"
+  },
+  {
+    "word": "academy",
+    "pos": "n.",
+    "meaning": "学院；学会",
+    "ukphone": "əˈkædəmi",
+    "usphone": "əˈkædəmi"
+  },
+  {
+    "word": "accelerate",
+    "pos": "v.",
+    "meaning": "加速",
+    "ukphone": "əkˈseləreɪt",
+    "usphone": "əkˈseləreɪt"
+  },
+  {
+    "word": "access",
+    "pos": "n.",
+    "meaning": "通道；进入权",
+    "ukphone": "ˈækses",
+    "usphone": "ˈækses"
+  },
+  {
+    "word": "accommodate",
+    "pos": "vt.",
+    "meaning": "容纳；提供住宿",
+    "ukphone": "əˈkɒmədeɪt",
+    "usphone": "əˈkɑːmədeɪt"
+  },
+  {
+    "word": "accompany",
+    "pos": "vt.",
+    "meaning": "陪伴；伴随",
+    "ukphone": "əˈkʌmpəni",
+    "usphone": "əˈkʌmpəni"
+  },
+  {
+    "word": "accomplish",
+    "pos": "vt.",
+    "meaning": "完成，实现",
+    "ukphone": "əˈkʌmplɪʃ",
+    "usphone": "əˈkɑːmplɪʃ"
+  },
+  {
+    "word": "accord",
+    "pos": "n.",
+    "meaning": "一致，符合",
+    "ukphone": "əˈkɔːd",
+    "usphone": "əˈkɔːrd"
+  },
+  {
+    "word": "accumulate",
+    "pos": "v.",
+    "meaning": "积累",
+    "ukphone": "əˈkjuːmjəleɪt",
+    "usphone": "əˈkjuːmjəleɪt"
+  },
+  {
+    "word": "accurate",
+    "pos": "a.",
+    "meaning": "准确的",
+    "ukphone": "ˈækjərət",
+    "usphone": "ˈækjərət"
+  },
+  {
+    "word": "accuse",
+    "pos": "vt.",
+    "meaning": "指控",
+    "ukphone": "əˈkjuːz",
+    "usphone": "əˈkjuːz"
+  },
+  {
+    "word": "achieve",
+    "pos": "vt.",
+    "meaning": "实现，达到",
+    "ukphone": "əˈtʃiːv",
+    "usphone": "əˈtʃiːv"
+  },
+  {
+    "word": "acknowledge",
+    "pos": "vt.",
+    "meaning": "承认；感谢",
+    "ukphone": "əkˈnɒlɪdʒ",
+    "usphone": "əkˈnɑːlɪdʒ"
+  },
+  {
+    "word": "acquaint",
+    "pos": "vt.",
+    "meaning": "使认识",
+    "ukphone": "əˈkweɪnt",
+    "usphone": "əˈkweɪnt"
+  },
+  {
+    "word": "acquire",
+    "pos": "vt.",
+    "meaning": "获得",
+    "ukphone": "əˈkwaɪə",
+    "usphone": "əˈkwaɪər"
+  },
+  {
+    "word": "bachelor",
+    "pos": "n.",
+    "meaning": "学士；单身男士",
+    "ukphone": "ˈbætʃələ",
+    "usphone": "ˈbætʃələr"
+  },
+  {
+    "word": "bankrupt",
+    "pos": "a.",
+    "meaning": "破产的",
+    "ukphone": "ˈbæŋkrʌpt",
+    "usphone": "ˈbæŋkrʌpt"
+  },
+  {
+    "word": "bargain",
+    "pos": "n.",
+    "meaning": "便宜货；协议",
+    "ukphone": "ˈbɑːɡɪn",
+    "usphone": "ˈbɑːrɡɪn"
+  },
+  {
+    "word": "barrier",
+    "pos": "n.",
+    "meaning": "障碍",
+    "ukphone": "ˈbæriə",
+    "usphone": "ˈbæriər"
+  },
+  {
+    "word": "beforehand",
+    "pos": "ad.",
+    "meaning": "预先",
+    "ukphone": "bɪˈfɔːhænd",
+    "usphone": "bɪˈfɔːrhænd"
+  },
+  {
+    "word": "betray",
+    "pos": "vt.",
+    "meaning": "背叛",
+    "ukphone": "bɪˈtreɪ",
+    "usphone": "bɪˈtreɪ"
+  },
+  {
+    "word": "bewilder",
+    "pos": "vt.",
+    "meaning": "使迷惑",
+    "ukphone": "bɪˈwɪldə",
+    "usphone": "bɪˈwɪldər"
+  },
+  {
+    "word": "bias",
+    "pos": "n.",
+    "meaning": "偏见",
+    "ukphone": "ˈbaɪəs",
+    "usphone": "ˈbaɪəs"
+  },
+  {
+    "word": "bid",
+    "pos": "n.",
+    "meaning": "出价；投标",
+    "ukphone": "bɪd",
+    "usphone": "bɪd"
+  },
+  {
+    "word": "bind",
+    "pos": "vt.",
+    "meaning": "捆绑；约束",
+    "ukphone": "baɪnd",
+    "usphone": "baɪnd"
+  },
+  {
+    "word": "blaze",
+    "pos": "n.",
+    "meaning": "火焰",
+    "ukphone": "bleɪz",
+    "usphone": "bleɪz"
+  },
+  {
+    "word": "bleak",
+    "pos": "a.",
+    "meaning": "荒凉的；暗淡的",
+    "ukphone": "bliːk",
+    "usphone": "bliːk"
+  },
+  {
+    "word": "blend",
+    "pos": "v.",
+    "meaning": "混合",
+    "ukphone": "blend",
+    "usphone": "blend"
+  },
+  {
+    "word": "bless",
+    "pos": "vt.",
+    "meaning": "祝福",
+    "ukphone": "bles",
+    "usphone": "bles"
+  },
+  {
+    "word": "blossom",
+    "pos": "n.",
+    "meaning": "花；开花期",
+    "ukphone": "ˈblɒsəm",
+    "usphone": "ˈblɑːsəm"
+  },
+  {
+    "word": "blunder",
+    "pos": "n.",
+    "meaning": "大错",
+    "ukphone": "ˈblʌndə",
+    "usphone": "ˈblʌndər"
+  },
+  {
+    "word": "blunt",
+    "pos": "a.",
+    "meaning": "钝的",
+    "ukphone": "blʌnt",
+    "usphone": "blʌnt"
+  },
+  {
+    "word": "boast",
+    "pos": "v.",
+    "meaning": "自夸",
+    "ukphone": "bəʊst",
+    "usphone": "boʊst"
+  },
+  {
+    "word": "bond",
+    "pos": "n.",
+    "meaning": "纽带；债券",
+    "ukphone": "bɒnd",
+    "usphone": "bɑːnd"
+  },
+  {
+    "word": "bonus",
+    "pos": "n.",
+    "meaning": "奖金",
+    "ukphone": "ˈbəʊnəs",
+    "usphone": "ˈboʊnəs"
+  },
+  {
+    "word": "boom",
+    "pos": "n.",
+    "meaning": "繁荣",
+    "ukphone": "buːm",
+    "usphone": "buːm"
+  },
+  {
+    "word": "boost",
+    "pos": "vt.",
+    "meaning": "促进",
+    "ukphone": "buːst",
+    "usphone": "buːst"
+  },
+  {
+    "word": "bounce",
+    "pos": "v.",
+    "meaning": "弹跳",
+    "ukphone": "baʊns",
+    "usphone": "baʊns"
+  },
+  {
+    "word": "bound",
+    "pos": "a.",
+    "meaning": "有义务的；开往",
+    "ukphone": "baʊnd",
+    "usphone": "baʊnd"
+  },
+  {
+    "word": "boundary",
+    "pos": "n.",
+    "meaning": "边界",
+    "ukphone": "ˈbaʊndri",
+    "usphone": "ˈbaʊndəri"
+  },
+  {
+    "word": "breach",
+    "pos": "n.",
+    "meaning": "违反；缺口",
+    "ukphone": "briːtʃ",
+    "usphone": "briːtʃ"
+  },
+  {
+    "word": "breakdown",
+    "pos": "n.",
+    "meaning": "故障；崩溃",
+    "ukphone": "ˈbreɪkdaʊn",
+    "usphone": "ˈbreɪkdaʊn"
+  },
+  {
+    "word": "breakthrough",
+    "pos": "n.",
+    "meaning": "突破",
+    "ukphone": "ˈbreɪkθruː",
+    "usphone": "ˈbreɪkθruː"
+  },
+  {
+    "word": "breed",
+    "pos": "vt.",
+    "meaning": "繁殖；培育",
+    "ukphone": "briːd",
+    "usphone": "briːd"
+  },
+  {
+    "word": "bribe",
+    "pos": "n.",
+    "meaning": "贿赂",
+    "ukphone": "braɪb",
+    "usphone": "braɪb"
+  },
+  {
+    "word": "brink",
+    "pos": "n.",
+    "meaning": "边缘",
+    "ukphone": "brɪŋk",
+    "usphone": "brɪŋk"
+  },
+  {
+    "word": "brisk",
+    "pos": "a.",
+    "meaning": "轻快的",
+    "ukphone": "brɪsk",
+    "usphone": "brɪsk"
+  },
+  {
+    "word": "broaden",
+    "pos": "v.",
+    "meaning": "拓宽",
+    "ukphone": "ˈbrɔːdn",
+    "usphone": "ˈbrɔːdn"
+  },
+  {
+    "word": "brochure",
+    "pos": "n.",
+    "meaning": "小册子",
+    "ukphone": "ˈbrəʊʃə",
+    "usphone": "broʊˈʃʊr"
+  },
+  {
+    "word": "bruise",
+    "pos": "n.",
+    "meaning": "淤伤",
+    "ukphone": "bruːz",
+    "usphone": "bruːz"
+  },
+  {
+    "word": "brutal",
+    "pos": "a.",
+    "meaning": "残忍的",
+    "ukphone": "ˈbruːtl",
+    "usphone": "ˈbruːtl"
+  },
+  {
+    "word": "bud",
+    "pos": "n.",
+    "meaning": "芽，花蕾",
+    "ukphone": "bʌd",
+    "usphone": "bʌd"
+  },
+  {
+    "word": "budget",
+    "pos": "n.",
+    "meaning": "预算",
+    "ukphone": "ˈbʌdʒɪt",
+    "usphone": "ˈbʌdʒɪt"
+  },
+  {
+    "word": "bulk",
+    "pos": "n.",
+    "meaning": "大量",
+    "ukphone": "bʌlk",
+    "usphone": "bʌlk"
+  },
+  {
+    "word": "bulletin",
+    "pos": "n.",
+    "meaning": "公告",
+    "ukphone": "ˈbʊlətɪn",
+    "usphone": "ˈbʊlətɪn"
+  },
+  {
+    "word": "bump",
+    "pos": "n.",
+    "meaning": "碰撞；肿块",
+    "ukphone": "bʌmp",
+    "usphone": "bʌmp"
+  },
+  {
+    "word": "bundle",
+    "pos": "n.",
+    "meaning": "捆，束",
+    "ukphone": "ˈbʌndl",
+    "usphone": "ˈbʌndl"
+  },
+  {
+    "word": "bureau",
+    "pos": "n.",
+    "meaning": "局；办事处",
+    "ukphone": "ˈbjʊərəʊ",
+    "usphone": "ˈbjʊroʊ"
+  },
+  {
+    "word": "bustle",
+    "pos": "v.",
+    "meaning": "忙乱",
+    "ukphone": "ˈbʌsl",
+    "usphone": "ˈbʌsl"
+  },
+  {
+    "word": "bypass",
+    "pos": "n.",
+    "meaning": "旁路",
+    "ukphone": "ˈbaɪpɑːs",
+    "usphone": "ˈbaɪpæs"
+  },
+  {
+    "word": "cable",
+    "pos": "n.",
+    "meaning": "电缆",
+    "ukphone": "ˈkeɪbl",
+    "usphone": "ˈkeɪbl"
+  },
+  {
+    "word": "candidate",
+    "pos": "n.",
+    "meaning": "候选人",
+    "ukphone": "ˈkændɪdət",
+    "usphone": "ˈkændɪdeɪt"
+  },
+  {
+    "word": "capability",
+    "pos": "n.",
+    "meaning": "能力",
+    "ukphone": "ˌkeɪpəˈbɪləti",
+    "usphone": "ˌkeɪpəˈbɪləti"
+  },
+  {
+    "word": "capacity",
+    "pos": "n.",
+    "meaning": "容量；能力",
+    "ukphone": "kəˈpæsəti",
+    "usphone": "kəˈpæsəti"
+  },
+  {
+    "word": "capture",
+    "pos": "vt.",
+    "meaning": "捕获",
+    "ukphone": "ˈkæptʃə",
+    "usphone": "ˈkæptʃər"
+  },
+  {
+    "word": "carve",
+    "pos": "vt.",
+    "meaning": "雕刻",
+    "ukphone": "kɑːv",
+    "usphone": "kɑːrv"
+  },
+  {
+    "word": "casualty",
+    "pos": "n.",
+    "meaning": "伤亡人员",
+    "ukphone": "ˈkæʒuəlti",
+    "usphone": "ˈkæʒuəlti"
+  },
+  {
+    "word": "catalog",
+    "pos": "n.",
+    "meaning": "目录",
+    "ukphone": "ˈkætəlɒɡ",
+    "usphone": "ˈkætəlɔːɡ"
+  },
+  {
+    "word": "category",
+    "pos": "n.",
+    "meaning": "类别",
+    "ukphone": "ˈkætəɡəri",
+    "usphone": "ˈkætəɡɔːri"
+  },
+  {
+    "word": "cater",
+    "pos": "vi.",
+    "meaning": "满足需要；提供饮食",
+    "ukphone": "ˈkeɪtə",
+    "usphone": "ˈkeɪtər"
+  },
+  {
+    "word": "caution",
+    "pos": "n.",
+    "meaning": "谨慎",
+    "ukphone": "ˈkɔːʃn",
+    "usphone": "ˈkɔːʃn"
+  },
+  {
+    "word": "cease",
+    "pos": "v.",
+    "meaning": "停止",
+    "ukphone": "siːs",
+    "usphone": "siːs"
+  },
+  {
+    "word": "certificate",
+    "pos": "n.",
+    "meaning": "证书",
+    "ukphone": "səˈtɪfɪkət",
+    "usphone": "sərˈtɪfɪkət"
+  },
+  {
+    "word": "certify",
+    "pos": "vt.",
+    "meaning": "证明",
+    "ukphone": "ˈsɜːtɪfaɪ",
+    "usphone": "ˈsɜːrtɪfaɪ"
+  },
+  {
+    "word": "characterize",
+    "pos": "vt.",
+    "meaning": "以……为特征",
+    "ukphone": "ˈkærəktəraɪz",
+    "usphone": "ˈkærəktəraɪz"
+  },
+  {
+    "word": "charity",
+    "pos": "n.",
+    "meaning": "慈善；慈善机构",
+    "ukphone": "ˈtʃærəti",
+    "usphone": "ˈtʃærəti"
+  },
+  {
+    "word": "charm",
+    "pos": "n.",
+    "meaning": "魅力",
+    "ukphone": "tʃɑːm",
+    "usphone": "tʃɑːrm"
+  },
+  {
+    "word": "charter",
+    "pos": "n.",
+    "meaning": "宪章",
+    "ukphone": "ˈtʃɑːtə",
+    "usphone": "ˈtʃɑːrtər"
+  },
+  {
+    "word": "cherish",
+    "pos": "vt.",
+    "meaning": "珍爱",
+    "ukphone": "ˈtʃerɪʃ",
+    "usphone": "ˈtʃerɪʃ"
+  },
+  {
+    "word": "chronic",
+    "pos": "a.",
+    "meaning": "慢性的",
+    "ukphone": "ˈkrɒnɪk",
+    "usphone": "ˈkrɑːnɪk"
+  },
+  {
+    "word": "circuit",
+    "pos": "n.",
+    "meaning": "电路；巡回",
+    "ukphone": "ˈsɜːkɪt",
+    "usphone": "ˈsɜːrkɪt"
+  },
+  {
+    "word": "circulation",
+    "pos": "n.",
+    "meaning": "流通；循环",
+    "ukphone": "ˌsɜːkjəˈleɪʃn",
+    "usphone": "ˌsɜːrkjəˈleɪʃn"
+  },
+  {
+    "word": "circumstance",
+    "pos": "n.",
+    "meaning": "环境",
+    "ukphone": "ˈsɜːkəmstəns",
+    "usphone": "ˈsɜːrkəmstæns"
+  },
+  {
+    "word": "cite",
+    "pos": "vt.",
+    "meaning": "引用",
+    "ukphone": "saɪt",
+    "usphone": "saɪt"
+  },
+  {
+    "word": "civil",
+    "pos": "a.",
+    "meaning": "公民的；民事的",
+    "ukphone": "ˈsɪvl",
+    "usphone": "ˈsɪvl"
+  },
+  {
+    "word": "claim",
+    "pos": "vt.",
+    "meaning": "声称；要求",
+    "ukphone": "kleɪm",
+    "usphone": "kleɪm"
+  },
+  {
+    "word": "clash",
+    "pos": "n.",
+    "meaning": "冲突",
+    "ukphone": "klæʃ",
+    "usphone": "klæʃ"
+  },
+  {
+    "word": "classic",
+    "pos": "a.",
+    "meaning": "经典的",
+    "ukphone": "ˈklæsɪk",
+    "usphone": "ˈklæsɪk"
+  },
+  {
+    "word": "classify",
+    "pos": "vt.",
+    "meaning": "分类",
+    "ukphone": "ˈklæsɪfaɪ",
+    "usphone": "ˈklæsɪfaɪ"
+  },
+  {
+    "word": "clause",
+    "pos": "n.",
+    "meaning": "条款；从句",
+    "ukphone": "klɔːz",
+    "usphone": "klɔːz"
+  },
+  {
+    "word": "clearance",
+    "pos": "n.",
+    "meaning": "清除；许可",
+    "ukphone": "ˈklɪərəns",
+    "usphone": "ˈklɪrəns"
+  },
+  {
+    "word": "client",
+    "pos": "n.",
+    "meaning": "客户",
+    "ukphone": "ˈklaɪənt",
+    "usphone": "ˈklaɪənt"
+  },
+  {
+    "word": "cling",
+    "pos": "vi.",
+    "meaning": "紧抓；依恋",
+    "ukphone": "klɪŋ",
+    "usphone": "klɪŋ"
+  },
+  {
+    "word": "clip",
+    "pos": "n.",
+    "meaning": "夹子；片段",
+    "ukphone": "klɪp",
+    "usphone": "klɪp"
+  },
+  {
+    "word": "cluster",
+    "pos": "n.",
+    "meaning": "群，簇",
+    "ukphone": "ˈklʌstə",
+    "usphone": "ˈklʌstər"
+  },
+  {
+    "word": "clutch",
+    "pos": "vt.",
+    "meaning": "抓住",
+    "ukphone": "klʌtʃ",
+    "usphone": "klʌtʃ"
+  },
+  {
+    "word": "coalition",
+    "pos": "n.",
+    "meaning": "联盟",
+    "ukphone": "ˌkəʊəˈlɪʃn",
+    "usphone": "ˌkoʊəˈlɪʃn"
+  },
+  {
+    "word": "cognitive",
+    "pos": "a.",
+    "meaning": "认知的",
+    "ukphone": "ˈkɒɡnətɪv",
+    "usphone": "ˈkɑːɡnətɪv"
+  },
+  {
+    "word": "coincide",
+    "pos": "vi.",
+    "meaning": "同时发生；一致",
+    "ukphone": "ˌkəʊɪnˈsaɪd",
+    "usphone": "ˌkoʊɪnˈsaɪd"
+  },
+  {
+    "word": "collaborate",
+    "pos": "vi.",
+    "meaning": "合作",
+    "ukphone": "kəˈlæbəreɪt",
+    "usphone": "kəˈlæbəreɪt"
+  },
+  {
+    "word": "collapse",
+    "pos": "vi.",
+    "meaning": "崩溃；倒塌",
+    "ukphone": "kəˈlæps",
+    "usphone": "kəˈlæps"
+  },
+  {
+    "word": "collide",
+    "pos": "vi.",
+    "meaning": "碰撞",
+    "ukphone": "kəˈlaɪd",
+    "usphone": "kəˈlaɪd"
+  },
+  {
+    "word": "colonial",
+    "pos": "a.",
+    "meaning": "殖民的",
+    "ukphone": "kəˈləʊniəl",
+    "usphone": "kəˈloʊniəl"
+  },
+  {
+    "word": "combat",
+    "pos": "n.",
+    "meaning": "战斗",
+    "ukphone": "ˈkɒmbæt",
+    "usphone": "ˈkɑːmbæt"
+  },
+  {
+    "word": "combine",
+    "pos": "v.",
+    "meaning": "结合",
+    "ukphone": "kəmˈbaɪn",
+    "usphone": "kəmˈbaɪn"
+  },
+  {
+    "word": "commence",
+    "pos": "v.",
+    "meaning": "开始",
+    "ukphone": "kəˈmens",
+    "usphone": "kəˈmens"
+  },
+  {
+    "word": "commend",
+    "pos": "vt.",
+    "meaning": "表扬",
+    "ukphone": "kəˈmend",
+    "usphone": "kəˈmend"
+  },
+  {
+    "word": "commentary",
+    "pos": "n.",
+    "meaning": "评论",
+    "ukphone": "ˈkɒməntri",
+    "usphone": "ˈkɑːmənteri"
+  },
+  {
+    "word": "commission",
+    "pos": "n.",
+    "meaning": "委员会；佣金",
+    "ukphone": "kəˈmɪʃn",
+    "usphone": "kəˈmɪʃn"
+  },
+  {
+    "word": "commitment",
+    "pos": "n.",
+    "meaning": "承诺；投入",
+    "ukphone": "kəˈmɪtmənt",
+    "usphone": "kəˈmɪtmənt"
+  },
+  {
+    "word": "commodity",
+    "pos": "n.",
+    "meaning": "商品",
+    "ukphone": "kəˈmɒdəti",
+    "usphone": "kəˈmɑːdəti"
+  },
+  {
+    "word": "commonplace",
+    "pos": "a.",
+    "meaning": "平凡的",
+    "ukphone": "ˈkɒmənpleɪs",
+    "usphone": "ˈkɑːmənpleɪs"
+  },
+  {
+    "word": "commute",
+    "pos": "vi.",
+    "meaning": "通勤",
+    "ukphone": "kəˈmjuːt",
+    "usphone": "kəˈmjuːt"
+  },
+  {
+    "word": "compact",
+    "pos": "a.",
+    "meaning": "紧凑的",
+    "ukphone": "kəmˈpækt",
+    "usphone": "kəmˈpækt"
+  },
+  {
+    "word": "comparable",
+    "pos": "a.",
+    "meaning": "可比较的",
+    "ukphone": "ˈkɒmpərəbl",
+    "usphone": "ˈkɑːmpərəbl"
+  },
+  {
+    "word": "compatible",
+    "pos": "a.",
+    "meaning": "兼容的",
+    "ukphone": "kəmˈpætəbl",
+    "usphone": "kəmˈpætəbl"
+  },
+  {
+    "word": "compel",
+    "pos": "vt.",
+    "meaning": "强迫",
+    "ukphone": "kəmˈpel",
+    "usphone": "kəmˈpel"
+  },
+  {
+    "word": "compensate",
+    "pos": "v.",
+    "meaning": "补偿",
+    "ukphone": "ˈkɒmpenseɪt",
+    "usphone": "ˈkɑːmpenseɪt"
+  },
+  {
+    "word": "competent",
+    "pos": "a.",
+    "meaning": "有能力的",
+    "ukphone": "ˈkɒmpɪtənt",
+    "usphone": "ˈkɑːmpɪtənt"
+  },
+  {
+    "word": "competitive",
+    "pos": "a.",
+    "meaning": "竞争的",
+    "ukphone": "kəmˈpetətɪv",
+    "usphone": "kəmˈpetətɪv"
+  },
+  {
+    "word": "compile",
+    "pos": "vt.",
+    "meaning": "编纂",
+    "ukphone": "kəmˈpaɪl",
+    "usphone": "kəmˈpaɪl"
+  },
+  {
+    "word": "complement",
+    "pos": "n.",
+    "meaning": "补充",
+    "ukphone": "ˈkɒmplɪment",
+    "usphone": "ˈkɑːmplɪment"
+  },
+  {
+    "word": "complication",
+    "pos": "n.",
+    "meaning": "并发症；复杂",
+    "ukphone": "ˌkɒmplɪˈkeɪʃn",
+    "usphone": "ˌkɑːmplɪˈkeɪʃn"
+  },
+  {
+    "word": "compliment",
+    "pos": "n.",
+    "meaning": "称赞",
+    "ukphone": "ˈkɒmplɪmənt",
+    "usphone": "ˈkɑːmplɪmənt"
+  },
+  {
+    "word": "comply",
+    "pos": "vi.",
+    "meaning": "遵守",
+    "ukphone": "kəmˈplaɪ",
+    "usphone": "kəmˈplaɪ"
+  },
+  {
+    "word": "component",
+    "pos": "n.",
+    "meaning": "组成部分",
+    "ukphone": "kəmˈpəʊnənt",
+    "usphone": "kəmˈpoʊnənt"
+  },
+  {
+    "word": "compose",
+    "pos": "vt.",
+    "meaning": "组成；创作",
+    "ukphone": "kəmˈpəʊz",
+    "usphone": "kəmˈpoʊz"
+  },
+  {
+    "word": "comprehend",
+    "pos": "vt.",
+    "meaning": "理解",
+    "ukphone": "ˌkɒmprɪˈhend",
+    "usphone": "ˌkɑːmprɪˈhend"
+  },
+  {
+    "word": "comprehensive",
+    "pos": "a.",
+    "meaning": "全面的",
+    "ukphone": "ˌkɒmprɪˈhensɪv",
+    "usphone": "ˌkɑːmprɪˈhensɪv"
+  },
+  {
+    "word": "comprise",
+    "pos": "vt.",
+    "meaning": "包含",
+    "ukphone": "kəmˈpraɪz",
+    "usphone": "kəmˈpraɪz"
+  },
+  {
+    "word": "compromise",
+    "pos": "n.",
+    "meaning": "妥协",
+    "ukphone": "ˈkɒmprəmaɪz",
+    "usphone": "ˈkɑːmprəmaɪz"
+  },
+  {
+    "word": "compulsory",
+    "pos": "a.",
+    "meaning": "强制的",
+    "ukphone": "kəmˈpʌlsəri",
+    "usphone": "kəmˈpʌlsəri"
+  },
+  {
+    "word": "conceal",
+    "pos": "vt.",
+    "meaning": "隐藏",
+    "ukphone": "kənˈsiːl",
+    "usphone": "kənˈsiːl"
+  },
+  {
+    "word": "concede",
+    "pos": "vt.",
+    "meaning": "承认；让步",
+    "ukphone": "kənˈsiːd",
+    "usphone": "kənˈsiːd"
+  },
+  {
+    "word": "conceive",
+    "pos": "v.",
+    "meaning": "构想；怀孕",
+    "ukphone": "kənˈsiːv",
+    "usphone": "kənˈsiːv"
+  },
+  {
+    "word": "conception",
+    "pos": "n.",
+    "meaning": "概念；构思",
+    "ukphone": "kənˈsepʃn",
+    "usphone": "kənˈsepʃn"
+  },
+  {
+    "word": "concise",
+    "pos": "a.",
+    "meaning": "简洁的",
+    "ukphone": "kənˈsaɪs",
+    "usphone": "kənˈsaɪs"
+  },
+  {
+    "word": "conclusive",
+    "pos": "a.",
+    "meaning": "决定性的",
+    "ukphone": "kənˈkluːsɪv",
+    "usphone": "kənˈkluːsɪv"
+  },
+  {
+    "word": "concrete",
+    "pos": "a.",
+    "meaning": "具体的",
+    "ukphone": "ˈkɒŋkriːt",
+    "usphone": "ˈkɑːŋkriːt"
+  },
+  {
+    "word": "condemn",
+    "pos": "vt.",
+    "meaning": "谴责；判刑",
+    "ukphone": "kənˈdem",
+    "usphone": "kənˈdem"
+  },
+  {
+    "word": "condense",
+    "pos": "v.",
+    "meaning": "浓缩",
+    "ukphone": "kənˈdens",
+    "usphone": "kənˈdens"
+  },
+  {
+    "word": "confer",
+    "pos": "v.",
+    "meaning": "授予；商议",
+    "ukphone": "kənˈfɜː",
+    "usphone": "kənˈfɜːr"
+  },
+  {
+    "word": "confess",
+    "pos": "v.",
+    "meaning": "承认；坦白",
+    "ukphone": "kənˈfes",
+    "usphone": "kənˈfes"
+  },
+  {
+    "word": "confidence",
+    "pos": "n.",
+    "meaning": "信心",
+    "ukphone": "ˈkɒnfɪdəns",
+    "usphone": "ˈkɑːnfɪdəns"
+  },
+  {
+    "word": "confidential",
+    "pos": "a.",
+    "meaning": "机密的",
+    "ukphone": "ˌkɒnfɪˈdenʃl",
+    "usphone": "ˌkɑːnfɪˈdenʃl"
+  },
+  {
+    "word": "confine",
+    "pos": "vt.",
+    "meaning": "限制",
+    "ukphone": "kənˈfaɪn",
+    "usphone": "kənˈfaɪn"
+  },
+  {
+    "word": "confirm",
+    "pos": "vt.",
+    "meaning": "确认",
+    "ukphone": "kənˈfɜːm",
+    "usphone": "kənˈfɜːrm"
+  },
+  {
+    "word": "conflict",
+    "pos": "n.",
+    "meaning": "冲突",
+    "ukphone": "ˈkɒnflɪkt",
+    "usphone": "ˈkɑːnflɪkt"
+  },
+  {
+    "word": "conform",
+    "pos": "vi.",
+    "meaning": "遵守；符合",
+    "ukphone": "kənˈfɔːm",
+    "usphone": "kənˈfɔːrm"
+  },
+  {
+    "word": "confront",
+    "pos": "vt.",
+    "meaning": "面对",
+    "ukphone": "kənˈfrʌnt",
+    "usphone": "kənˈfrʌnt"
+  },
+  {
+    "word": "conscious",
+    "pos": "a.",
+    "meaning": "有意识的",
+    "ukphone": "ˈkɒnʃəs",
+    "usphone": "ˈkɑːnʃəs"
+  },
+  {
+    "word": "consecutive",
+    "pos": "a.",
+    "meaning": "连续的",
+    "ukphone": "kənˈsekjətɪv",
+    "usphone": "kənˈsekjətɪv"
+  },
+  {
+    "word": "consensus",
+    "pos": "n.",
+    "meaning": "共识",
+    "ukphone": "kənˈsensəs",
+    "usphone": "kənˈsensəs"
+  },
+  {
+    "word": "consent",
+    "pos": "n.",
+    "meaning": "同意",
+    "ukphone": "kənˈsent",
+    "usphone": "kənˈsent"
+  },
+  {
+    "word": "consequence",
+    "pos": "n.",
+    "meaning": "后果",
+    "ukphone": "ˈkɒnsɪkwəns",
+    "usphone": "ˈkɑːnsəkwens"
+  },
+  {
+    "word": "conserve",
+    "pos": "vt.",
+    "meaning": "保存；节约",
+    "ukphone": "kənˈsɜːv",
+    "usphone": "kənˈsɜːrv"
+  },
+  {
+    "word": "considerable",
+    "pos": "a.",
+    "meaning": "相当大的",
+    "ukphone": "kənˈsɪdərəbl",
+    "usphone": "kənˈsɪdərəbl"
+  },
+  {
+    "word": "consist",
+    "pos": "vi.",
+    "meaning": "由……组成",
+    "ukphone": "kənˈsɪst",
+    "usphone": "kənˈsɪst"
+  },
+  {
+    "word": "consistent",
+    "pos": "a.",
+    "meaning": "一致的",
+    "ukphone": "kənˈsɪstənt",
+    "usphone": "kənˈsɪstənt"
+  },
+  {
+    "word": "consolidate",
+    "pos": "v.",
+    "meaning": "巩固",
+    "ukphone": "kənˈsɒlɪdeɪt",
+    "usphone": "kənˈsɑːlɪdeɪt"
+  },
+  {
+    "word": "conspicuous",
+    "pos": "a.",
+    "meaning": "显眼的",
+    "ukphone": "kənˈspɪkjuəs",
+    "usphone": "kənˈspɪkjuəs"
+  },
+  {
+    "word": "constant",
+    "pos": "a.",
+    "meaning": "持续的",
+    "ukphone": "ˈkɒnstənt",
+    "usphone": "ˈkɑːnstənt"
+  },
+  {
+    "word": "constituent",
+    "pos": "n.",
+    "meaning": "成分；选民",
+    "ukphone": "kənˈstɪtjuənt",
+    "usphone": "kənˈstɪtʃuənt"
+  },
+  {
+    "word": "constitute",
+    "pos": "vt.",
+    "meaning": "构成",
+    "ukphone": "ˈkɒnstɪtjuːt",
+    "usphone": "ˈkɑːnstɪtuːt"
+  },
+  {
+    "word": "constrain",
+    "pos": "vt.",
+    "meaning": "限制",
+    "ukphone": "kənˈstreɪn",
+    "usphone": "kənˈstreɪn"
+  },
+  {
+    "word": "construct",
+    "pos": "vt.",
+    "meaning": "建造",
+    "ukphone": "kənˈstrʌkt",
+    "usphone": "kənˈstrʌkt"
+  },
+  {
+    "word": "consult",
+    "pos": "vt.",
+    "meaning": "咨询",
+    "ukphone": "kənˈsʌlt",
+    "usphone": "kənˈsʌlt"
+  },
+  {
+    "word": "consume",
+    "pos": "vt.",
+    "meaning": "消耗",
+    "ukphone": "kənˈsjuːm",
+    "usphone": "kənˈsuːm"
+  },
+  {
+    "word": "contemplate",
+    "pos": "vt.",
+    "meaning": "考虑；沉思",
+    "ukphone": "ˈkɒntəmpleɪt",
+    "usphone": "ˈkɑːntəmpleɪt"
+  },
+  {
+    "word": "contemporary",
+    "pos": "a.",
+    "meaning": "当代的",
+    "ukphone": "kənˈtemprəri",
+    "usphone": "kənˈtempəreri"
+  },
+  {
+    "word": "contempt",
+    "pos": "n.",
+    "meaning": "蔑视",
+    "ukphone": "kənˈtempt",
+    "usphone": "kənˈtempt"
+  },
+  {
+    "word": "contend",
+    "pos": "v.",
+    "meaning": "竞争；主张",
+    "ukphone": "kənˈtend",
+    "usphone": "kənˈtend"
+  },
+  {
+    "word": "context",
+    "pos": "n.",
+    "meaning": "上下文",
+    "ukphone": "ˈkɒntekst",
+    "usphone": "ˈkɑːntekst"
+  },
+  {
+    "word": "contradict",
+    "pos": "vt.",
+    "meaning": "矛盾；反驳",
+    "ukphone": "ˌkɒntrəˈdɪkt",
+    "usphone": "ˌkɑːntrəˈdɪkt"
+  },
+  {
+    "word": "contrast",
+    "pos": "n.",
+    "meaning": "对比",
+    "ukphone": "ˈkɒntrɑːst",
+    "usphone": "ˈkɑːntræst"
+  },
+  {
+    "word": "contribute",
+    "pos": "v.",
+    "meaning": "贡献",
+    "ukphone": "kənˈtrɪbjuːt",
+    "usphone": "kənˈtrɪbjuːt"
+  },
+  {
+    "word": "contrive",
+    "pos": "vt.",
+    "meaning": "设计；设法",
+    "ukphone": "kənˈtraɪv",
+    "usphone": "kənˈtraɪv"
+  },
+  {
+    "word": "controversial",
+    "pos": "a.",
+    "meaning": "有争议的",
+    "ukphone": "ˌkɒntrəˈvɜːʃl",
+    "usphone": "ˌkɑːntrəˈvɜːrʃl"
+  },
+  {
+    "word": "controversy",
+    "pos": "n.",
+    "meaning": "争议",
+    "ukphone": "ˈkɒntrəvɜːsi",
+    "usphone": "ˈkɑːntrəvɜːrsi"
+  },
+  {
+    "word": "convenience",
+    "pos": "n.",
+    "meaning": "便利",
+    "ukphone": "kənˈviːniəns",
+    "usphone": "kənˈviːniəns"
+  },
+  {
+    "word": "convention",
+    "pos": "n.",
+    "meaning": "惯例；大会",
+    "ukphone": "kənˈvenʃn",
+    "usphone": "kənˈvenʃn"
+  },
+  {
+    "word": "convert",
+    "pos": "vt.",
+    "meaning": "转变",
+    "ukphone": "kənˈvɜːt",
+    "usphone": "kənˈvɜːrt"
+  },
+  {
+    "word": "convey",
+    "pos": "vt.",
+    "meaning": "传达",
+    "ukphone": "kənˈveɪ",
+    "usphone": "kənˈveɪ"
+  },
+  {
+    "word": "convince",
+    "pos": "vt.",
+    "meaning": "使确信",
+    "ukphone": "kənˈvɪns",
+    "usphone": "kənˈvɪns"
+  },
+  {
+    "word": "cooperate",
+    "pos": "vi.",
+    "meaning": "合作",
+    "ukphone": "kəʊˈɒpəreɪt",
+    "usphone": "koʊˈɑːpəreɪt"
+  },
+  {
+    "word": "coordinate",
+    "pos": "vt.",
+    "meaning": "协调",
+    "ukphone": "kəʊˈɔːdɪneɪt",
+    "usphone": "koʊˈɔːrdɪneɪt"
+  },
+  {
+    "word": "cope",
+    "pos": "vi.",
+    "meaning": "应对",
+    "ukphone": "kəʊp",
+    "usphone": "koʊp"
+  },
+  {
+    "word": "copyright",
+    "pos": "n.",
+    "meaning": "版权",
+    "ukphone": "ˈkɒpiraɪt",
+    "usphone": "ˈkɑːpiraɪt"
+  },
+  {
+    "word": "cord",
+    "pos": "n.",
+    "meaning": "绳索",
+    "ukphone": "kɔːd",
+    "usphone": "kɔːrd"
+  },
+  {
+    "word": "core",
+    "pos": "n.",
+    "meaning": "核心",
+    "ukphone": "kɔː",
+    "usphone": "kɔːr"
+  },
+  {
+    "word": "corporate",
+    "pos": "a.",
+    "meaning": "公司的",
+    "ukphone": "ˈkɔːpərət",
+    "usphone": "ˈkɔːrpərət"
+  },
+  {
+    "word": "correlate",
+    "pos": "v.",
+    "meaning": "关联",
+    "ukphone": "ˈkɒrəleɪt",
+    "usphone": "ˈkɔːrəleɪt"
+  },
+  {
+    "word": "correspond",
+    "pos": "vi.",
+    "meaning": "对应；通信",
+    "ukphone": "ˌkɒrəˈspɒnd",
+    "usphone": "ˌkɔːrəˈspɑːnd"
+  },
+  {
+    "word": "corrode",
+    "pos": "v.",
+    "meaning": "腐蚀",
+    "ukphone": "kəˈrəʊd",
+    "usphone": "kəˈroʊd"
+  },
+  {
+    "word": "corrupt",
+    "pos": "a.",
+    "meaning": "腐败的",
+    "ukphone": "kəˈrʌpt",
+    "usphone": "kəˈrʌpt"
+  },
+  {
+    "word": "council",
+    "pos": "n.",
+    "meaning": "委员会；理事会",
+    "ukphone": "ˈkaʊnsl",
+    "usphone": "ˈkaʊnsl"
+  },
+  {
+    "word": "counsel",
+    "pos": "n.",
+    "meaning": "劝告；律师",
+    "ukphone": "ˈkaʊnsl",
+    "usphone": "ˈkaʊnsl"
+  },
+  {
+    "word": "counter",
+    "pos": "n.",
+    "meaning": "柜台；计数器",
+    "ukphone": "ˈkaʊntə",
+    "usphone": "ˈkaʊntər"
+  },
+  {
+    "word": "counterpart",
+    "pos": "n.",
+    "meaning": "对应的人或物",
+    "ukphone": "ˈkaʊntəpɑːt",
+    "usphone": "ˈkaʊntərpɑːrt"
+  },
+  {
+    "word": "courtesy",
+    "pos": "n.",
+    "meaning": "礼貌",
+    "ukphone": "ˈkɜːtəsi",
+    "usphone": "ˈkɜːrtəsi"
+  },
+  {
+    "word": "crack",
+    "pos": "n.",
+    "meaning": "裂缝",
+    "ukphone": "kræk",
+    "usphone": "kræk"
+  },
+  {
+    "word": "craft",
+    "pos": "n.",
+    "meaning": "工艺；手艺",
+    "ukphone": "krɑːft",
+    "usphone": "kræft"
+  },
+  {
+    "word": "crash",
+    "pos": "n.",
+    "meaning": "碰撞；崩溃",
+    "ukphone": "kræʃ",
+    "usphone": "kræʃ"
+  },
+  {
+    "word": "crawl",
+    "pos": "vi.",
+    "meaning": "爬行",
+    "ukphone": "krɔːl",
+    "usphone": "krɔːl"
+  },
+  {
+    "word": "creative",
+    "pos": "a.",
+    "meaning": "创造性的",
+    "ukphone": "kriˈeɪtɪv",
+    "usphone": "kriˈeɪtɪv"
+  },
+  {
+    "word": "credit",
+    "pos": "n.",
+    "meaning": "信用；学分",
+    "ukphone": "ˈkredɪt",
+    "usphone": "ˈkredɪt"
+  },
+  {
+    "word": "creep",
+    "pos": "vi.",
+    "meaning": "爬行；蔓延",
+    "ukphone": "kriːp",
+    "usphone": "kriːp"
+  },
+  {
+    "word": "crew",
+    "pos": "n.",
+    "meaning": "船员；机组",
+    "ukphone": "kruː",
+    "usphone": "kruː"
+  },
+  {
+    "word": "criminal",
+    "pos": "a.",
+    "meaning": "犯罪的",
+    "ukphone": "ˈkrɪmɪnl",
+    "usphone": "ˈkrɪmɪnl"
+  },
+  {
+    "word": "cripple",
+    "pos": "n.",
+    "meaning": "跛子",
+    "ukphone": "ˈkrɪpl",
+    "usphone": "ˈkrɪpl"
+  },
+  {
+    "word": "crisis",
+    "pos": "n.",
+    "meaning": "危机",
+    "ukphone": "ˈkraɪsɪs",
+    "usphone": "ˈkraɪsɪs"
+  },
+  {
+    "word": "criterion",
+    "pos": "n.",
+    "meaning": "标准",
+    "ukphone": "kraɪˈtɪəriən",
+    "usphone": "kraɪˈtɪriən"
+  },
+  {
+    "word": "critic",
+    "pos": "n.",
+    "meaning": "评论家",
+    "ukphone": "ˈkrɪtɪk",
+    "usphone": "ˈkrɪtɪk"
+  },
+  {
+    "word": "critical",
+    "pos": "a.",
+    "meaning": "批评的；关键的",
+    "ukphone": "ˈkrɪtɪkl",
+    "usphone": "ˈkrɪtɪkl"
+  },
+  {
+    "word": "crucial",
+    "pos": "a.",
+    "meaning": "至关重要的",
+    "ukphone": "ˈkruːʃl",
+    "usphone": "ˈkruːʃl"
+  },
+  {
+    "word": "crude",
+    "pos": "a.",
+    "meaning": "粗糙的",
+    "ukphone": "kruːd",
+    "usphone": "kruːd"
+  },
+  {
+    "word": "cruise",
+    "pos": "n.",
+    "meaning": "巡航；乘船游览",
+    "ukphone": "kruːz",
+    "usphone": "kruːz"
+  },
+  {
+    "word": "crush",
+    "pos": "vt.",
+    "meaning": "压碎",
+    "ukphone": "krʌʃ",
+    "usphone": "krʌʃ"
+  },
+  {
+    "word": "cue",
+    "pos": "n.",
+    "meaning": "提示",
+    "ukphone": "kjuː",
+    "usphone": "kjuː"
+  },
+  {
+    "word": "cultivate",
+    "pos": "vt.",
+    "meaning": "培养；耕作",
+    "ukphone": "ˈkʌltɪveɪt",
+    "usphone": "ˈkʌltɪveɪt"
+  },
+  {
+    "word": "cumulative",
+    "pos": "a.",
+    "meaning": "累积的",
+    "ukphone": "ˈkjuːmjələtɪv",
+    "usphone": "ˈkjuːmjəleɪtɪv"
+  },
+  {
+    "word": "curb",
+    "pos": "n.",
+    "meaning": "控制；路缘",
+    "ukphone": "kɜːb",
+    "usphone": "kɜːrb"
+  },
+  {
+    "word": "curiosity",
+    "pos": "n.",
+    "meaning": "好奇心",
+    "ukphone": "ˌkjʊəriˈɒsəti",
+    "usphone": "ˌkjʊriˈɑːsəti"
+  },
+  {
+    "word": "curriculum",
+    "pos": "n.",
+    "meaning": "课程",
+    "ukphone": "kəˈrɪkjələm",
+    "usphone": "kəˈrɪkjələm"
+  },
+  {
+    "word": "cynical",
+    "pos": "a.",
+    "meaning": "愤世嫉俗的",
+    "ukphone": "ˈsɪnɪkl",
+    "usphone": "ˈsɪnɪkl"
+  },
+  {
+    "word": "dart",
+    "pos": "n.",
+    "meaning": "飞镖；飞奔",
+    "ukphone": "dɑːt",
+    "usphone": "dɑːrt"
+  },
+  {
+    "word": "dazzle",
+    "pos": "vt.",
+    "meaning": "使眼花",
+    "ukphone": "ˈdæzl",
+    "usphone": "ˈdæzl"
+  },
+  {
+    "word": "debate",
+    "pos": "n.",
+    "meaning": "辩论",
+    "ukphone": "dɪˈbeɪt",
+    "usphone": "dɪˈbeɪt"
+  },
+  {
+    "word": "decay",
+    "pos": "vi.",
+    "meaning": "腐烂；衰退",
+    "ukphone": "dɪˈkeɪ",
+    "usphone": "dɪˈkeɪ"
+  },
+  {
+    "word": "deceive",
+    "pos": "vt.",
+    "meaning": "欺骗",
+    "ukphone": "dɪˈsiːv",
+    "usphone": "dɪˈsiːv"
+  },
+  {
+    "word": "decent",
+    "pos": "a.",
+    "meaning": "体面的",
+    "ukphone": "ˈdiːsnt",
+    "usphone": "ˈdiːsnt"
+  },
+  {
+    "word": "declaration",
+    "pos": "n.",
+    "meaning": "宣言",
+    "ukphone": "ˌdekləˈreɪʃn",
+    "usphone": "ˌdekləˈreɪʃn"
+  },
+  {
+    "word": "decline",
+    "pos": "v.",
+    "meaning": "下降；拒绝",
+    "ukphone": "dɪˈklaɪn",
+    "usphone": "dɪˈklaɪn"
+  },
+  {
+    "word": "decorate",
+    "pos": "vt.",
+    "meaning": "装饰",
+    "ukphone": "ˈdekəreɪt",
+    "usphone": "ˈdekəreɪt"
+  },
+  {
+    "word": "decree",
+    "pos": "n.",
+    "meaning": "法令",
+    "ukphone": "dɪˈkriː",
+    "usphone": "dɪˈkriː"
+  },
+  {
+    "word": "dedicate",
+    "pos": "vt.",
+    "meaning": "奉献",
+    "ukphone": "ˈdedɪkeɪt",
+    "usphone": "ˈdedɪkeɪt"
+  },
+  {
+    "word": "deduce",
+    "pos": "vt.",
+    "meaning": "推断",
+    "ukphone": "dɪˈdjuːs",
+    "usphone": "dɪˈduːs"
+  },
+  {
+    "word": "deduct",
+    "pos": "vt.",
+    "meaning": "扣除",
+    "ukphone": "dɪˈdʌkt",
+    "usphone": "dɪˈdʌkt"
+  },
+  {
+    "word": "deem",
+    "pos": "vt.",
+    "meaning": "认为",
+    "ukphone": "diːm",
+    "usphone": "diːm"
+  },
+  {
+    "word": "defect",
+    "pos": "n.",
+    "meaning": "缺陷",
+    "ukphone": "ˈdiːfekt",
+    "usphone": "ˈdiːfekt"
+  },
+  {
+    "word": "defiance",
+    "pos": "n.",
+    "meaning": "违抗",
+    "ukphone": "dɪˈfaɪəns",
+    "usphone": "dɪˈfaɪəns"
+  },
+  {
+    "word": "deficiency",
+    "pos": "n.",
+    "meaning": "不足；缺陷",
+    "ukphone": "dɪˈfɪʃnsi",
+    "usphone": "dɪˈfɪʃnsi"
+  },
+  {
+    "word": "deficit",
+    "pos": "n.",
+    "meaning": "赤字",
+    "ukphone": "ˈdefɪsɪt",
+    "usphone": "ˈdefɪsɪt"
+  },
+  {
+    "word": "define",
+    "pos": "vt.",
+    "meaning": "定义",
+    "ukphone": "dɪˈfaɪn",
+    "usphone": "dɪˈfaɪn"
+  },
+  {
+    "word": "defy",
+    "pos": "vt.",
+    "meaning": "违抗",
+    "ukphone": "dɪˈfaɪ",
+    "usphone": "dɪˈfaɪ"
+  },
+  {
+    "word": "delegate",
+    "pos": "n.",
+    "meaning": "代表",
+    "ukphone": "ˈdelɪɡət",
+    "usphone": "ˈdelɪɡət"
+  },
+  {
+    "word": "deliberate",
+    "pos": "a.",
+    "meaning": "故意的",
+    "ukphone": "dɪˈlɪbərət",
+    "usphone": "dɪˈlɪbərət"
+  },
+  {
+    "word": "delicate",
+    "pos": "a.",
+    "meaning": "精致的",
+    "ukphone": "ˈdelɪkət",
+    "usphone": "ˈdelɪkət"
+  },
+  {
+    "word": "delivery",
+    "pos": "n.",
+    "meaning": "交付",
+    "ukphone": "dɪˈlɪvəri",
+    "usphone": "dɪˈlɪvəri"
+  },
+  {
+    "word": "democracy",
+    "pos": "n.",
+    "meaning": "民主",
+    "ukphone": "dɪˈmɒkrəsi",
+    "usphone": "dɪˈmɑːkrəsi"
+  },
+  {
+    "word": "demonstrate",
+    "pos": "vt.",
+    "meaning": "演示；证明",
+    "ukphone": "ˈdemənstreɪt",
+    "usphone": "ˈdemənstreɪt"
+  },
+  {
+    "word": "denial",
+    "pos": "n.",
+    "meaning": "否认",
+    "ukphone": "dɪˈnaɪəl",
+    "usphone": "dɪˈnaɪəl"
+  },
+  {
+    "word": "denote",
+    "pos": "vt.",
+    "meaning": "表示",
+    "ukphone": "dɪˈnəʊt",
+    "usphone": "dɪˈnoʊt"
+  },
+  {
+    "word": "denounce",
+    "pos": "vt.",
+    "meaning": "谴责",
+    "ukphone": "dɪˈnaʊns",
+    "usphone": "dɪˈnaʊns"
+  },
+  {
+    "word": "dense",
+    "pos": "a.",
+    "meaning": "密集的",
+    "ukphone": "dens",
+    "usphone": "dens"
+  },
+  {
+    "word": "depict",
+    "pos": "vt.",
+    "meaning": "描绘",
+    "ukphone": "dɪˈpɪkt",
+    "usphone": "dɪˈpɪkt"
+  },
+  {
+    "word": "deplete",
+    "pos": "vt.",
+    "meaning": "耗尽",
+    "ukphone": "dɪˈpliːt",
+    "usphone": "dɪˈpliːt"
+  },
+  {
+    "word": "deploy",
+    "pos": "vt.",
+    "meaning": "部署",
+    "ukphone": "dɪˈplɔɪ",
+    "usphone": "dɪˈplɔɪ"
+  },
+  {
+    "word": "deposit",
+    "pos": "n.",
+    "meaning": "存款；押金",
+    "ukphone": "dɪˈpɒzɪt",
+    "usphone": "dɪˈpɑːzɪt"
+  },
+  {
+    "word": "depress",
+    "pos": "vt.",
+    "meaning": "使沮丧",
+    "ukphone": "dɪˈpres",
+    "usphone": "dɪˈpres"
+  },
+  {
+    "word": "deprive",
+    "pos": "vt.",
+    "meaning": "剥夺",
+    "ukphone": "dɪˈpraɪv",
+    "usphone": "dɪˈpraɪv"
+  },
+  {
+    "word": "derive",
+    "pos": "v.",
+    "meaning": "源于",
+    "ukphone": "dɪˈraɪv",
+    "usphone": "dɪˈraɪv"
+  },
+  {
+    "word": "descend",
+    "pos": "vi.",
+    "meaning": "下降",
+    "ukphone": "dɪˈsend",
+    "usphone": "dɪˈsend"
+  },
+  {
+    "word": "designate",
+    "pos": "vt.",
+    "meaning": "指定",
+    "ukphone": "ˈdezɪɡneɪt",
+    "usphone": "ˈdezɪɡneɪt"
+  },
+  {
+    "word": "despise",
+    "pos": "vt.",
+    "meaning": "鄙视",
+    "ukphone": "dɪˈspaɪz",
+    "usphone": "dɪˈspaɪz"
+  },
+  {
+    "word": "destiny",
+    "pos": "n.",
+    "meaning": "命运",
+    "ukphone": "ˈdestəni",
+    "usphone": "ˈdestəni"
+  },
+  {
+    "word": "detach",
+    "pos": "vt.",
+    "meaning": "分离",
+    "ukphone": "dɪˈtætʃ",
+    "usphone": "dɪˈtætʃ"
+  },
+  {
+    "word": "detain",
+    "pos": "vt.",
+    "meaning": "拘留",
+    "ukphone": "dɪˈteɪn",
+    "usphone": "dɪˈteɪn"
+  },
+  {
+    "word": "deteriorate",
+    "pos": "vi.",
+    "meaning": "恶化",
+    "ukphone": "dɪˈtɪəriəreɪt",
+    "usphone": "dɪˈtɪriəreɪt"
+  },
+  {
+    "word": "devise",
+    "pos": "vt.",
+    "meaning": "设计；发明",
+    "ukphone": "dɪˈvaɪz",
+    "usphone": "dɪˈvaɪz"
+  },
+  {
+    "word": "devote",
+    "pos": "vt.",
+    "meaning": "致力于",
+    "ukphone": "dɪˈvəʊt",
+    "usphone": "dɪˈvoʊt"
+  },
+  {
+    "word": "diagnose",
+    "pos": "vt.",
+    "meaning": "诊断",
+    "ukphone": "ˈdaɪəɡnəʊz",
+    "usphone": "ˌdaɪəɡˈnoʊs"
+  },
+  {
+    "word": "diet",
+    "pos": "n.",
+    "meaning": "饮食",
+    "ukphone": "ˈdaɪət",
+    "usphone": "ˈdaɪət"
+  },
+  {
+    "word": "diffuse",
+    "pos": "v.",
+    "meaning": "扩散",
+    "ukphone": "dɪˈfjuːz",
+    "usphone": "dɪˈfjuːz"
+  },
+  {
+    "word": "dignity",
+    "pos": "n.",
+    "meaning": "尊严",
+    "ukphone": "ˈdɪɡnəti",
+    "usphone": "ˈdɪɡnəti"
+  },
+  {
+    "word": "dilemma",
+    "pos": "n.",
+    "meaning": "困境",
+    "ukphone": "dɪˈlemə",
+    "usphone": "dɪˈlemə"
+  },
+  {
+    "word": "diligent",
+    "pos": "a.",
+    "meaning": "勤奋的",
+    "ukphone": "ˈdɪlɪdʒənt",
+    "usphone": "ˈdɪlɪdʒənt"
+  },
+  {
+    "word": "dilute",
+    "pos": "vt.",
+    "meaning": "稀释",
+    "ukphone": "daɪˈluːt",
+    "usphone": "daɪˈluːt"
+  },
+  {
+    "word": "diminish",
+    "pos": "v.",
+    "meaning": "减少",
+    "ukphone": "dɪˈmɪnɪʃ",
+    "usphone": "dɪˈmɪnɪʃ"
+  },
+  {
+    "word": "diplomat",
+    "pos": "n.",
+    "meaning": "外交官",
+    "ukphone": "ˈdɪpləmæt",
+    "usphone": "ˈdɪpləmæt"
+  },
+  {
+    "word": "discard",
+    "pos": "vt.",
+    "meaning": "丢弃",
+    "ukphone": "dɪsˈkɑːd",
+    "usphone": "dɪsˈkɑːrd"
+  },
+  {
+    "word": "discern",
+    "pos": "vt.",
+    "meaning": "辨别",
+    "ukphone": "dɪˈsɜːn",
+    "usphone": "dɪˈsɜːrn"
+  },
+  {
+    "word": "discharge",
+    "pos": "vt.",
+    "meaning": "排放；解雇",
+    "ukphone": "dɪsˈtʃɑːdʒ",
+    "usphone": "dɪsˈtʃɑːrdʒ"
+  },
+  {
+    "word": "discipline",
+    "pos": "n.",
+    "meaning": "纪律",
+    "ukphone": "ˈdɪsəplɪn",
+    "usphone": "ˈdɪsəplɪn"
+  },
+  {
+    "word": "disclose",
+    "pos": "vt.",
+    "meaning": "揭露",
+    "ukphone": "dɪsˈkləʊz",
+    "usphone": "dɪsˈkloʊz"
+  },
+  {
+    "word": "discount",
+    "pos": "n.",
+    "meaning": "折扣",
+    "ukphone": "ˈdɪskaʊnt",
+    "usphone": "ˈdɪskaʊnt"
+  },
+  {
+    "word": "discrepancy",
+    "pos": "n.",
+    "meaning": "差异",
+    "ukphone": "dɪsˈkrepənsi",
+    "usphone": "dɪsˈkrepənsi"
+  },
+  {
+    "word": "discrete",
+    "pos": "a.",
+    "meaning": "离散的",
+    "ukphone": "dɪˈskriːt",
+    "usphone": "dɪˈskriːt"
+  },
+  {
+    "word": "discriminate",
+    "pos": "vi.",
+    "meaning": "歧视",
+    "ukphone": "dɪˈskrɪmɪneɪt",
+    "usphone": "dɪˈskrɪmɪneɪt"
+  },
+  {
+    "word": "disguise",
+    "pos": "vt.",
+    "meaning": "伪装",
+    "ukphone": "dɪsˈɡaɪz",
+    "usphone": "dɪsˈɡaɪz"
+  },
+  {
+    "word": "dismay",
+    "pos": "n.",
+    "meaning": "沮丧",
+    "ukphone": "dɪsˈmeɪ",
+    "usphone": "dɪsˈmeɪ"
+  },
+  {
+    "word": "dispatch",
+    "pos": "vt.",
+    "meaning": "派遣",
+    "ukphone": "dɪˈspætʃ",
+    "usphone": "dɪˈspætʃ"
+  },
+  {
+    "word": "disperse",
+    "pos": "v.",
+    "meaning": "分散",
+    "ukphone": "dɪˈspɜːs",
+    "usphone": "dɪˈspɜːrs"
+  },
+  {
+    "word": "displace",
+    "pos": "vt.",
+    "meaning": "取代",
+    "ukphone": "dɪsˈpleɪs",
+    "usphone": "dɪsˈpleɪs"
+  },
+  {
+    "word": "disposal",
+    "pos": "n.",
+    "meaning": "处置",
+    "ukphone": "dɪˈspəʊzl",
+    "usphone": "dɪˈspoʊzl"
+  },
+  {
+    "word": "dispose",
+    "pos": "vi.",
+    "meaning": "处理",
+    "ukphone": "dɪˈspəʊz",
+    "usphone": "dɪˈspoʊz"
+  },
+  {
+    "word": "dispute",
+    "pos": "n.",
+    "meaning": "争论",
+    "ukphone": "dɪˈspjuːt",
+    "usphone": "dɪˈspjuːt"
+  },
+  {
+    "word": "disregard",
+    "pos": "vt.",
+    "meaning": "忽视",
+    "ukphone": "ˌdɪsrɪˈɡɑːd",
+    "usphone": "ˌdɪsrɪˈɡɑːrd"
+  },
+  {
+    "word": "distinct",
+    "pos": "a.",
+    "meaning": "明显的；不同的",
+    "ukphone": "dɪˈstɪŋkt",
+    "usphone": "dɪˈstɪŋkt"
+  },
+  {
+    "word": "distort",
+    "pos": "vt.",
+    "meaning": "扭曲",
+    "ukphone": "dɪˈstɔːt",
+    "usphone": "dɪˈstɔːrt"
+  },
+  {
+    "word": "distract",
+    "pos": "vt.",
+    "meaning": "使分心",
+    "ukphone": "dɪˈstrækt",
+    "usphone": "dɪˈstrækt"
+  },
+  {
+    "word": "distribute",
+    "pos": "vt.",
+    "meaning": "分配",
+    "ukphone": "dɪˈstrɪbjuːt",
+    "usphone": "dɪˈstrɪbjuːt"
+  },
+  {
+    "word": "disturbance",
+    "pos": "n.",
+    "meaning": "扰乱",
+    "ukphone": "dɪˈstɜːbəns",
+    "usphone": "dɪˈstɜːrbəns"
+  },
+  {
+    "word": "diverse",
+    "pos": "a.",
+    "meaning": "多样的",
+    "ukphone": "daɪˈvɜːs",
+    "usphone": "daɪˈvɜːrs"
+  },
+  {
+    "word": "divert",
+    "pos": "vt.",
+    "meaning": "转移",
+    "ukphone": "daɪˈvɜːt",
+    "usphone": "daɪˈvɜːrt"
+  },
+  {
+    "word": "dividend",
+    "pos": "n.",
+    "meaning": "股息",
+    "ukphone": "ˈdɪvɪdend",
+    "usphone": "ˈdɪvɪdend"
+  },
+  {
+    "word": "doctrine",
+    "pos": "n.",
+    "meaning": "教义",
+    "ukphone": "ˈdɒktrɪn",
+    "usphone": "ˈdɑːktrɪn"
+  },
+  {
+    "word": "domain",
+    "pos": "n.",
+    "meaning": "领域；域名",
+    "ukphone": "dəˈmeɪn",
+    "usphone": "doʊˈmeɪn"
+  },
+  {
+    "word": "domestic",
+    "pos": "a.",
+    "meaning": "国内的",
+    "ukphone": "dəˈmestɪk",
+    "usphone": "dəˈmestɪk"
+  },
+  {
+    "word": "dominant",
+    "pos": "a.",
+    "meaning": "主导的",
+    "ukphone": "ˈdɒmɪnənt",
+    "usphone": "ˈdɑːmɪnənt"
+  },
+  {
+    "word": "dominate",
+    "pos": "vt.",
+    "meaning": "支配",
+    "ukphone": "ˈdɒmɪneɪt",
+    "usphone": "ˈdɑːmɪneɪt"
+  },
+  {
+    "word": "donate",
+    "pos": "vt.",
+    "meaning": "捐赠",
+    "ukphone": "dəʊˈneɪt",
+    "usphone": "ˈdoʊneɪt"
+  },
+  {
+    "word": "doom",
+    "pos": "n.",
+    "meaning": "厄运",
+    "ukphone": "duːm",
+    "usphone": "duːm"
+  },
+  {
+    "word": "drain",
+    "pos": "v.",
+    "meaning": "排水",
+    "ukphone": "dreɪn",
+    "usphone": "dreɪn"
+  },
+  {
+    "word": "dramatic",
+    "pos": "a.",
+    "meaning": "戏剧性的",
+    "ukphone": "drəˈmætɪk",
+    "usphone": "drəˈmætɪk"
+  },
+  {
+    "word": "drastic",
+    "pos": "a.",
+    "meaning": "激烈的",
+    "ukphone": "ˈdræstɪk",
+    "usphone": "ˈdræstɪk"
+  },
+  {
+    "word": "dread",
+    "pos": "n.",
+    "meaning": "恐惧",
+    "ukphone": "dred",
+    "usphone": "dred"
+  },
+  {
+    "word": "drought",
+    "pos": "n.",
+    "meaning": "干旱",
+    "ukphone": "draʊt",
+    "usphone": "draʊt"
+  },
+  {
+    "word": "dubious",
+    "pos": "a.",
+    "meaning": "可疑的",
+    "ukphone": "ˈdjuːbiəs",
+    "usphone": "ˈduːbiəs"
+  },
+  {
+    "word": "duplicate",
+    "pos": "n.",
+    "meaning": "复制品",
+    "ukphone": "ˈdjuːplɪkeɪt",
+    "usphone": "ˈduːplɪkeɪt"
+  },
+  {
+    "word": "dwell",
+    "pos": "vi.",
+    "meaning": "居住",
+    "ukphone": "dwel",
+    "usphone": "dwel"
+  },
+  {
+    "word": "eccentric",
+    "pos": "a.",
+    "meaning": "古怪的",
+    "ukphone": "ɪkˈsentrɪk",
+    "usphone": "ɪkˈsentrɪk"
+  },
+  {
+    "word": "eclipse",
+    "pos": "n.",
+    "meaning": "日食；月食",
+    "ukphone": "ɪˈklɪps",
+    "usphone": "ɪˈklɪps"
+  },
+  {
+    "word": "ecology",
+    "pos": "n.",
+    "meaning": "生态学",
+    "ukphone": "iˈkɒlədʒi",
+    "usphone": "iˈkɑːlədʒi"
+  },
+  {
+    "word": "economical",
+    "pos": "a.",
+    "meaning": "经济的",
+    "ukphone": "ˌiːkəˈnɒmɪkl",
+    "usphone": "ˌiːkəˈnɑːmɪkl"
+  },
+  {
+    "word": "edible",
+    "pos": "a.",
+    "meaning": "可食用的",
+    "ukphone": "ˈedəbl",
+    "usphone": "ˈedəbl"
+  },
+  {
+    "word": "edit",
+    "pos": "vt.",
+    "meaning": "编辑",
+    "ukphone": "ˈedɪt",
+    "usphone": "ˈedɪt"
+  },
+  {
+    "word": "elaborate",
+    "pos": "a.",
+    "meaning": "精心制作的",
+    "ukphone": "ɪˈlæbərət",
+    "usphone": "ɪˈlæbərət"
+  },
+  {
+    "word": "elegant",
+    "pos": "a.",
+    "meaning": "优雅的",
+    "ukphone": "ˈelɪɡənt",
+    "usphone": "ˈelɪɡənt"
+  },
+  {
+    "word": "elevate",
+    "pos": "vt.",
+    "meaning": "提升",
+    "ukphone": "ˈelɪveɪt",
+    "usphone": "ˈelɪveɪt"
+  },
+  {
+    "word": "elicit",
+    "pos": "vt.",
+    "meaning": "引出",
+    "ukphone": "iˈlɪsɪt",
+    "usphone": "iˈlɪsɪt"
+  },
+  {
+    "word": "eligible",
+    "pos": "a.",
+    "meaning": "合格的",
+    "ukphone": "ˈelɪdʒəbl",
+    "usphone": "ˈelɪdʒəbl"
+  },
+  {
+    "word": "eliminate",
+    "pos": "vt.",
+    "meaning": "消除",
+    "ukphone": "ɪˈlɪmɪneɪt",
+    "usphone": "ɪˈlɪmɪneɪt"
+  },
+  {
+    "word": "eloquent",
+    "pos": "a.",
+    "meaning": "雄辩的",
+    "ukphone": "ˈeləkwənt",
+    "usphone": "ˈeləkwənt"
+  },
+  {
+    "word": "embark",
+    "pos": "vi.",
+    "meaning": "着手；上船",
+    "ukphone": "ɪmˈbɑːk",
+    "usphone": "ɪmˈbɑːrk"
+  },
+  {
+    "word": "embarrass",
+    "pos": "vt.",
+    "meaning": "使尴尬",
+    "ukphone": "ɪmˈbærəs",
+    "usphone": "ɪmˈbærəs"
+  },
+  {
+    "word": "embody",
+    "pos": "vt.",
+    "meaning": "体现",
+    "ukphone": "ɪmˈbɒdi",
+    "usphone": "ɪmˈbɑːdi"
+  },
+  {
+    "word": "embrace",
+    "pos": "vt.",
+    "meaning": "拥抱；包含",
+    "ukphone": "ɪmˈbreɪs",
+    "usphone": "ɪmˈbreɪs"
+  },
+  {
+    "word": "emerge",
+    "pos": "vi.",
+    "meaning": "出现",
+    "ukphone": "iˈmɜːdʒ",
+    "usphone": "iˈmɜːrdʒ"
+  },
+  {
+    "word": "emission",
+    "pos": "n.",
+    "meaning": "排放",
+    "ukphone": "iˈmɪʃn",
+    "usphone": "iˈmɪʃn"
+  },
+  {
+    "word": "empirical",
+    "pos": "a.",
+    "meaning": "经验主义的",
+    "ukphone": "ɪmˈpɪrɪkl",
+    "usphone": "ɪmˈpɪrɪkl"
+  },
+  {
+    "word": "enable",
+    "pos": "vt.",
+    "meaning": "使能够",
+    "ukphone": "ɪˈneɪbl",
+    "usphone": "ɪˈneɪbl"
+  },
+  {
+    "word": "enclose",
+    "pos": "vt.",
+    "meaning": "包围；附上",
+    "ukphone": "ɪnˈkləʊz",
+    "usphone": "ɪnˈkloʊz"
+  },
+  {
+    "word": "encounter",
+    "pos": "n.",
+    "meaning": "遭遇",
+    "ukphone": "ɪnˈkaʊntə",
+    "usphone": "ɪnˈkaʊntər"
+  },
+  {
+    "word": "endeavor",
+    "pos": "n.",
+    "meaning": "努力",
+    "ukphone": "ɪnˈdevə",
+    "usphone": "ɪnˈdevər"
+  },
+  {
+    "word": "endow",
+    "pos": "vt.",
+    "meaning": "赋予",
+    "ukphone": "ɪnˈdaʊ",
+    "usphone": "ɪnˈdaʊ"
+  },
+  {
+    "word": "endure",
+    "pos": "v.",
+    "meaning": "忍受",
+    "ukphone": "ɪnˈdjʊə",
+    "usphone": "ɪnˈdʊr"
+  },
+  {
+    "word": "energetic",
+    "pos": "a.",
+    "meaning": "精力充沛的",
+    "ukphone": "ˌenəˈdʒetɪk",
+    "usphone": "ˌenərˈdʒetɪk"
+  },
+  {
+    "word": "enforce",
+    "pos": "vt.",
+    "meaning": "执行",
+    "ukphone": "ɪnˈfɔːs",
+    "usphone": "ɪnˈfɔːrs"
+  },
+  {
+    "word": "engage",
+    "pos": "v.",
+    "meaning": "从事；吸引",
+    "ukphone": "ɪnˈɡeɪdʒ",
+    "usphone": "ɪnˈɡeɪdʒ"
+  },
+  {
+    "word": "enhance",
+    "pos": "vt.",
+    "meaning": "增强",
+    "ukphone": "ɪnˈhɑːns",
+    "usphone": "ɪnˈhæns"
+  },
+  {
+    "word": "enlighten",
+    "pos": "vt.",
+    "meaning": "启迪",
+    "ukphone": "ɪnˈlaɪtn",
+    "usphone": "ɪnˈlaɪtn"
+  },
+  {
+    "word": "enormous",
+    "pos": "a.",
+    "meaning": "巨大的",
+    "ukphone": "ɪˈnɔːməs",
+    "usphone": "ɪˈnɔːrməs"
+  },
+  {
+    "word": "enrich",
+    "pos": "vt.",
+    "meaning": "丰富",
+    "ukphone": "ɪnˈrɪtʃ",
+    "usphone": "ɪnˈrɪtʃ"
+  },
+  {
+    "word": "enroll",
+    "pos": "v.",
+    "meaning": "注册",
+    "ukphone": "ɪnˈrəʊl",
+    "usphone": "ɪnˈroʊl"
+  },
+  {
+    "word": "ensure",
+    "pos": "vt.",
+    "meaning": "确保",
+    "ukphone": "ɪnˈʃʊə",
+    "usphone": "ɪnˈʃʊr"
+  },
+  {
+    "word": "entail",
+    "pos": "vt.",
+    "meaning": "需要；导致",
+    "ukphone": "ɪnˈteɪl",
+    "usphone": "ɪnˈteɪl"
+  },
+  {
+    "word": "enterprise",
+    "pos": "n.",
+    "meaning": "企业",
+    "ukphone": "ˈentəpraɪz",
+    "usphone": "ˈentərpraɪz"
+  },
+  {
+    "word": "entertain",
+    "pos": "vt.",
+    "meaning": "娱乐",
+    "ukphone": "ˌentəˈteɪn",
+    "usphone": "ˌentərˈteɪn"
+  },
+  {
+    "word": "enthusiasm",
+    "pos": "n.",
+    "meaning": "热情",
+    "ukphone": "ɪnˈθjuːziæzəm",
+    "usphone": "ɪnˈθuːziæzəm"
+  },
+  {
+    "word": "entitle",
+    "pos": "vt.",
+    "meaning": "给予权利",
+    "ukphone": "ɪnˈtaɪtl",
+    "usphone": "ɪnˈtaɪtl"
+  },
+  {
+    "word": "entrepreneur",
+    "pos": "n.",
+    "meaning": "企业家",
+    "ukphone": "ˌɒntrəprəˈnɜː",
+    "usphone": "ˌɑːntrəprəˈnɜːr"
+  },
+  {
+    "word": "envisage",
+    "pos": "vt.",
+    "meaning": "设想",
+    "ukphone": "ɪnˈvɪzɪdʒ",
+    "usphone": "ɪnˈvɪzɪdʒ"
+  },
+  {
+    "word": "epidemic",
+    "pos": "n.",
+    "meaning": "流行病",
+    "ukphone": "ˌepɪˈdemɪk",
+    "usphone": "ˌepɪˈdemɪk"
+  },
+  {
+    "word": "episode",
+    "pos": "n.",
+    "meaning": "插曲；一集",
+    "ukphone": "ˈepɪsəʊd",
+    "usphone": "ˈepɪsoʊd"
+  },
+  {
+    "word": "equator",
+    "pos": "n.",
+    "meaning": "赤道",
+    "ukphone": "ɪˈkweɪtə",
+    "usphone": "ɪˈkweɪtər"
+  },
+  {
+    "word": "equivalent",
+    "pos": "a.",
+    "meaning": "等同的",
+    "ukphone": "ɪˈkwɪvələnt",
+    "usphone": "ɪˈkwɪvələnt"
+  },
+  {
+    "word": "erect",
+    "pos": "vt.",
+    "meaning": "竖立",
+    "ukphone": "ɪˈrekt",
+    "usphone": "ɪˈrekt"
+  },
+  {
+    "word": "erupt",
+    "pos": "vi.",
+    "meaning": "爆发",
+    "ukphone": "ɪˈrʌpt",
+    "usphone": "ɪˈrʌpt"
+  },
+  {
+    "word": "escalate",
+    "pos": "v.",
+    "meaning": "升级",
+    "ukphone": "ˈeskəleɪt",
+    "usphone": "ˈeskəleɪt"
+  },
+  {
+    "word": "essence",
+    "pos": "n.",
+    "meaning": "本质",
+    "ukphone": "ˈesns",
+    "usphone": "ˈesns"
+  },
+  {
+    "word": "estate",
+    "pos": "n.",
+    "meaning": "财产；房地产",
+    "ukphone": "ɪˈsteɪt",
+    "usphone": "ɪˈsteɪt"
+  },
+  {
+    "word": "esteem",
+    "pos": "n.",
+    "meaning": "尊重",
+    "ukphone": "ɪˈstiːm",
+    "usphone": "ɪˈstiːm"
+  },
+  {
+    "word": "eternal",
+    "pos": "a.",
+    "meaning": "永恒的",
+    "ukphone": "ɪˈtɜːnl",
+    "usphone": "ɪˈtɜːrnl"
+  },
+  {
+    "word": "evaluate",
+    "pos": "vt.",
+    "meaning": "评估",
+    "ukphone": "ɪˈvæljueɪt",
+    "usphone": "ɪˈvæljueɪt"
+  },
+  {
+    "word": "evaporate",
+    "pos": "v.",
+    "meaning": "蒸发",
+    "ukphone": "ɪˈvæpəreɪt",
+    "usphone": "ɪˈvæpəreɪt"
+  },
+  {
+    "word": "evoke",
+    "pos": "vt.",
+    "meaning": "唤起",
+    "ukphone": "ɪˈvəʊk",
+    "usphone": "ɪˈvoʊk"
+  },
+  {
+    "word": "evolve",
+    "pos": "vi.",
+    "meaning": "进化",
+    "ukphone": "iˈvɒlv",
+    "usphone": "iˈvɑːlv"
+  },
+  {
+    "word": "exaggerate",
+    "pos": "v.",
+    "meaning": "夸大",
+    "ukphone": "ɪɡˈzædʒəreɪt",
+    "usphone": "ɪɡˈzædʒəreɪt"
+  },
+  {
+    "word": "exceed",
+    "pos": "vt.",
+    "meaning": "超过",
+    "ukphone": "ɪkˈsiːd",
+    "usphone": "ɪkˈsiːd"
+  },
+  {
+    "word": "exception",
+    "pos": "n.",
+    "meaning": "例外",
+    "ukphone": "ɪkˈsepʃn",
+    "usphone": "ɪkˈsepʃn"
+  },
+  {
+    "word": "excess",
+    "pos": "n.",
+    "meaning": "过量",
+    "ukphone": "ɪkˈses",
+    "usphone": "ɪkˈses"
+  },
+  {
+    "word": "exclude",
+    "pos": "vt.",
+    "meaning": "排除",
+    "ukphone": "ɪkˈskluːd",
+    "usphone": "ɪkˈskluːd"
+  },
+  {
+    "word": "exclusive",
+    "pos": "a.",
+    "meaning": "独有的",
+    "ukphone": "ɪkˈskluːsɪv",
+    "usphone": "ɪkˈskluːsɪv"
+  },
+  {
+    "word": "execute",
+    "pos": "vt.",
+    "meaning": "执行",
+    "ukphone": "ˈeksɪkjuːt",
+    "usphone": "ˈeksɪkjuːt"
+  },
+  {
+    "word": "exemplify",
+    "pos": "vt.",
+    "meaning": "举例说明",
+    "ukphone": "ɪɡˈzemplɪfaɪ",
+    "usphone": "ɪɡˈzemplɪfaɪ"
+  },
+  {
+    "word": "exempt",
+    "pos": "a.",
+    "meaning": "免除的",
+    "ukphone": "ɪɡˈzempt",
+    "usphone": "ɪɡˈzempt"
+  },
+  {
+    "word": "exert",
+    "pos": "vt.",
+    "meaning": "施加",
+    "ukphone": "ɪɡˈzɜːt",
+    "usphone": "ɪɡˈzɜːrt"
+  },
+  {
+    "word": "exhaust",
+    "pos": "vt.",
+    "meaning": "耗尽",
+    "ukphone": "ɪɡˈzɔːst",
+    "usphone": "ɪɡˈzɔːst"
+  },
+  {
+    "word": "exile",
+    "pos": "n.",
+    "meaning": "流放",
+    "ukphone": "ˈeksaɪl",
+    "usphone": "ˈeksaɪl"
+  },
+  {
+    "word": "exotic",
+    "pos": "a.",
+    "meaning": "异国情调的",
+    "ukphone": "ɪɡˈzɒtɪk",
+    "usphone": "ɪɡˈzɑːtɪk"
+  },
+  {
+    "word": "expand",
+    "pos": "v.",
+    "meaning": "扩张",
+    "ukphone": "ɪkˈspænd",
+    "usphone": "ɪkˈspænd"
+  },
+  {
+    "word": "expedition",
+    "pos": "n.",
+    "meaning": "远征",
+    "ukphone": "ˌekspəˈdɪʃn",
+    "usphone": "ˌekspəˈdɪʃn"
+  },
+  {
+    "word": "expel",
+    "pos": "vt.",
+    "meaning": "驱逐",
+    "ukphone": "ɪkˈspel",
+    "usphone": "ɪkˈspel"
+  },
+  {
+    "word": "expend",
+    "pos": "vt.",
+    "meaning": "花费",
+    "ukphone": "ɪkˈspend",
+    "usphone": "ɪkˈspend"
+  },
+  {
+    "word": "expire",
+    "pos": "vi.",
+    "meaning": "到期",
+    "ukphone": "ɪkˈspaɪə",
+    "usphone": "ɪkˈspaɪər"
+  },
+  {
+    "word": "explicit",
+    "pos": "a.",
+    "meaning": "明确的",
+    "ukphone": "ɪkˈsplɪsɪt",
+    "usphone": "ɪkˈsplɪsɪt"
+  },
+  {
+    "word": "exploit",
+    "pos": "vt.",
+    "meaning": "开发；剥削",
+    "ukphone": "ɪkˈsplɔɪt",
+    "usphone": "ɪkˈsplɔɪt"
+  },
+  {
+    "word": "explore",
+    "pos": "vt.",
+    "meaning": "探索",
+    "ukphone": "ɪkˈsplɔː",
+    "usphone": "ɪkˈsplɔːr"
+  },
+  {
+    "word": "expose",
+    "pos": "vt.",
+    "meaning": "暴露",
+    "ukphone": "ɪkˈspəʊz",
+    "usphone": "ɪkˈspoʊz"
+  },
+  {
+    "word": "exquisite",
+    "pos": "a.",
+    "meaning": "精致的",
+    "ukphone": "ɪkˈskwɪzɪt",
+    "usphone": "ɪkˈskwɪzɪt"
+  },
+  {
+    "word": "extend",
+    "pos": "v.",
+    "meaning": "延伸",
+    "ukphone": "ɪkˈstend",
+    "usphone": "ɪkˈstend"
+  },
+  {
+    "word": "extensive",
+    "pos": "a.",
+    "meaning": "广泛的",
+    "ukphone": "ɪkˈstensɪv",
+    "usphone": "ɪkˈstensɪv"
+  },
+  {
+    "word": "extinct",
+    "pos": "a.",
+    "meaning": "灭绝的",
+    "ukphone": "ɪkˈstɪŋkt",
+    "usphone": "ɪkˈstɪŋkt"
+  },
+  {
+    "word": "extinguish",
+    "pos": "vt.",
+    "meaning": "熄灭",
+    "ukphone": "ɪkˈstɪŋɡwɪʃ",
+    "usphone": "ɪkˈstɪŋɡwɪʃ"
+  },
+  {
+    "word": "extract",
+    "pos": "vt.",
+    "meaning": "提取",
+    "ukphone": "ɪkˈstrækt",
+    "usphone": "ɪkˈstrækt"
+  },
+  {
+    "word": "extravagant",
+    "pos": "a.",
+    "meaning": "奢侈的",
+    "ukphone": "ɪkˈstrævəɡənt",
+    "usphone": "ɪkˈstrævəɡənt"
+  },
+  {
+    "word": "extreme",
+    "pos": "a.",
+    "meaning": "极端的",
+    "ukphone": "ɪkˈstriːm",
+    "usphone": "ɪkˈstriːm"
+  },
+  {
+    "word": "fabricate",
+    "pos": "vt.",
+    "meaning": "捏造",
+    "ukphone": "ˈfæbrɪkeɪt",
+    "usphone": "ˈfæbrɪkeɪt"
+  },
+  {
+    "word": "facet",
+    "pos": "n.",
+    "meaning": "方面",
+    "ukphone": "ˈfæsɪt",
+    "usphone": "ˈfæsɪt"
+  },
+  {
+    "word": "facilitate",
+    "pos": "vt.",
+    "meaning": "促进；使便利",
+    "ukphone": "fəˈsɪlɪteɪt",
+    "usphone": "fəˈsɪlɪteɪt"
+  },
+  {
+    "word": "faculty",
+    "pos": "n.",
+    "meaning": "能力；系",
+    "ukphone": "ˈfæklti",
+    "usphone": "ˈfæklti"
+  },
+  {
+    "word": "famine",
+    "pos": "n.",
+    "meaning": "饥荒",
+    "ukphone": "ˈfæmɪn",
+    "usphone": "ˈfæmɪn"
+  },
+  {
+    "word": "fantasy",
+    "pos": "n.",
+    "meaning": "幻想",
+    "ukphone": "ˈfæntəsi",
+    "usphone": "ˈfæntəsi"
+  },
+  {
+    "word": "fascinate",
+    "pos": "vt.",
+    "meaning": "使着迷",
+    "ukphone": "ˈfæsɪneɪt",
+    "usphone": "ˈfæsɪneɪt"
+  },
+  {
+    "word": "fatal",
+    "pos": "a.",
+    "meaning": "致命的",
+    "ukphone": "ˈfeɪtl",
+    "usphone": "ˈfeɪtl"
+  },
+  {
+    "word": "fatigue",
+    "pos": "n.",
+    "meaning": "疲劳",
+    "ukphone": "fəˈtiːɡ",
+    "usphone": "fəˈtiːɡ"
+  },
+  {
+    "word": "feasible",
+    "pos": "a.",
+    "meaning": "可行的",
+    "ukphone": "ˈfiːzəbl",
+    "usphone": "ˈfiːzəbl"
+  },
+  {
+    "word": "feeble",
+    "pos": "a.",
+    "meaning": "虚弱的",
+    "ukphone": "ˈfiːbl",
+    "usphone": "ˈfiːbl"
+  },
+  {
+    "word": "ferocious",
+    "pos": "a.",
+    "meaning": "凶猛的",
+    "ukphone": "fəˈrəʊʃəs",
+    "usphone": "fəˈroʊʃəs"
+  },
+  {
+    "word": "fertile",
+    "pos": "a.",
+    "meaning": "肥沃的",
+    "ukphone": "ˈfɜːtaɪl",
+    "usphone": "ˈfɜːrtl"
+  },
+  {
+    "word": "fiction",
+    "pos": "n.",
+    "meaning": "小说；虚构",
+    "ukphone": "ˈfɪkʃn",
+    "usphone": "ˈfɪkʃn"
+  },
+  {
+    "word": "fierce",
+    "pos": "a.",
+    "meaning": "激烈的",
+    "ukphone": "fɪəs",
+    "usphone": "fɪrs"
+  },
+  {
+    "word": "filter",
+    "pos": "n.",
+    "meaning": "过滤器",
+    "ukphone": "ˈfɪltə",
+    "usphone": "ˈfɪltər"
+  },
+  {
+    "word": "finance",
+    "pos": "n.",
+    "meaning": "金融",
+    "ukphone": "ˈfaɪnæns",
+    "usphone": "ˈfaɪnæns"
+  },
+  {
+    "word": "finite",
+    "pos": "a.",
+    "meaning": "有限的",
+    "ukphone": "ˈfaɪnaɪt",
+    "usphone": "ˈfaɪnaɪt"
+  },
+  {
+    "word": "flare",
+    "pos": "n.",
+    "meaning": "闪光",
+    "ukphone": "fleə",
+    "usphone": "fler"
+  },
+  {
+    "word": "flatter",
+    "pos": "vt.",
+    "meaning": "奉承",
+    "ukphone": "ˈflætə",
+    "usphone": "ˈflætər"
+  },
+  {
+    "word": "flaw",
+    "pos": "n.",
+    "meaning": "缺陷",
+    "ukphone": "flɔː",
+    "usphone": "flɔː"
+  },
+  {
+    "word": "fling",
+    "pos": "vt.",
+    "meaning": "扔，抛",
+    "ukphone": "flɪŋ",
+    "usphone": "flɪŋ"
+  },
+  {
+    "word": "flip",
+    "pos": "vt.",
+    "meaning": "翻转",
+    "ukphone": "flɪp",
+    "usphone": "flɪp"
+  },
+  {
+    "word": "flock",
+    "pos": "n.",
+    "meaning": "群",
+    "ukphone": "flɒk",
+    "usphone": "flɑːk"
+  },
+  {
+    "word": "flourish",
+    "pos": "vi.",
+    "meaning": "繁荣",
+    "ukphone": "ˈflʌrɪʃ",
+    "usphone": "ˈflɜːrɪʃ"
+  },
+  {
+    "word": "fluctuate",
+    "pos": "vi.",
+    "meaning": "波动",
+    "ukphone": "ˈflʌktʃueɪt",
+    "usphone": "ˈflʌktʃueɪt"
+  },
+  {
+    "word": "flush",
+    "pos": "v.",
+    "meaning": "冲洗",
+    "ukphone": "flʌʃ",
+    "usphone": "flʌʃ"
+  },
+  {
+    "word": "flutter",
+    "pos": "vi.",
+    "meaning": "飘动",
+    "ukphone": "ˈflʌtə",
+    "usphone": "ˈflʌtər"
+  },
+  {
+    "word": "foam",
+    "pos": "n.",
+    "meaning": "泡沫",
+    "ukphone": "fəʊm",
+    "usphone": "foʊm"
+  },
+  {
+    "word": "foil",
+    "pos": "n.",
+    "meaning": "箔",
+    "ukphone": "fɔɪl",
+    "usphone": "fɔɪl"
+  },
+  {
+    "word": "foremost",
+    "pos": "a.",
+    "meaning": "最重要的",
+    "ukphone": "ˈfɔːməʊst",
+    "usphone": "ˈfɔːrmoʊst"
+  },
+  {
+    "word": "forge",
+    "pos": "vt.",
+    "meaning": "锻造；伪造",
+    "ukphone": "fɔːdʒ",
+    "usphone": "fɔːrdʒ"
+  },
+  {
+    "word": "formulate",
+    "pos": "vt.",
+    "meaning": "制定",
+    "ukphone": "ˈfɔːmjuleɪt",
+    "usphone": "ˈfɔːrmjuleɪt"
+  },
+  {
+    "word": "forthcoming",
+    "pos": "a.",
+    "meaning": "即将到来的",
+    "ukphone": "ˌfɔːθˈkʌmɪŋ",
+    "usphone": "ˌfɔːrθˈkʌmɪŋ"
+  },
+  {
+    "word": "fortune",
+    "pos": "n.",
+    "meaning": "财富；命运",
+    "ukphone": "ˈfɔːtʃuːn",
+    "usphone": "ˈfɔːrtʃən"
+  },
+  {
+    "word": "foster",
+    "pos": "vt.",
+    "meaning": "培养",
+    "ukphone": "ˈfɒstə",
+    "usphone": "ˈfɑːstər"
+  },
+  {
+    "word": "foundation",
+    "pos": "n.",
+    "meaning": "基础",
+    "ukphone": "faʊnˈdeɪʃn",
+    "usphone": "faʊnˈdeɪʃn"
+  },
+  {
+    "word": "fraction",
+    "pos": "n.",
+    "meaning": "部分；分数",
+    "ukphone": "ˈfrækʃn",
+    "usphone": "ˈfrækʃn"
+  },
+  {
+    "word": "fracture",
+    "pos": "n.",
+    "meaning": "骨折",
+    "ukphone": "ˈfræktʃə",
+    "usphone": "ˈfræktʃər"
+  },
+  {
+    "word": "fragile",
+    "pos": "a.",
+    "meaning": "脆弱的",
+    "ukphone": "ˈfrædʒaɪl",
+    "usphone": "ˈfrædʒl"
+  },
+  {
+    "word": "framework",
+    "pos": "n.",
+    "meaning": "框架",
+    "ukphone": "ˈfreɪmwɜːk",
+    "usphone": "ˈfreɪmwɜːrk"
+  },
+  {
+    "word": "franchise",
+    "pos": "n.",
+    "meaning": "特许经营权",
+    "ukphone": "ˈfræntʃaɪz",
+    "usphone": "ˈfræntʃaɪz"
+  },
+  {
+    "word": "frantic",
+    "pos": "a.",
+    "meaning": "疯狂的",
+    "ukphone": "ˈfræntɪk",
+    "usphone": "ˈfræntɪk"
+  },
+  {
+    "word": "fraud",
+    "pos": "n.",
+    "meaning": "欺诈",
+    "ukphone": "frɔːd",
+    "usphone": "frɔːd"
+  },
+  {
+    "word": "friction",
+    "pos": "n.",
+    "meaning": "摩擦",
+    "ukphone": "ˈfrɪkʃn",
+    "usphone": "ˈfrɪkʃn"
+  },
+  {
+    "word": "fringe",
+    "pos": "n.",
+    "meaning": "边缘",
+    "ukphone": "frɪndʒ",
+    "usphone": "frɪndʒ"
+  },
+  {
+    "word": "frown",
+    "pos": "vi.",
+    "meaning": "皱眉",
+    "ukphone": "fraʊn",
+    "usphone": "fraʊn"
+  },
+  {
+    "word": "frustrate",
+    "pos": "vt.",
+    "meaning": "使沮丧",
+    "ukphone": "frʌˈstreɪt",
+    "usphone": "ˈfrʌstreɪt"
+  },
+  {
+    "word": "fuel",
+    "pos": "n.",
+    "meaning": "燃料",
+    "ukphone": "ˈfjuːəl",
+    "usphone": "ˈfjuːəl"
+  },
+  {
+    "word": "fulfill",
+    "pos": "vt.",
+    "meaning": "完成",
+    "ukphone": "fʊlˈfɪl",
+    "usphone": "fʊlˈfɪl"
+  },
+  {
+    "word": "fundamental",
+    "pos": "a.",
+    "meaning": "基本的",
+    "ukphone": "ˌfʌndəˈmentl",
+    "usphone": "ˌfʌndəˈmentl"
+  },
+  {
+    "word": "furious",
+    "pos": "a.",
+    "meaning": "狂怒的",
+    "ukphone": "ˈfjʊəriəs",
+    "usphone": "ˈfjʊriəs"
+  },
+  {
+    "word": "furnish",
+    "pos": "vt.",
+    "meaning": "提供",
+    "ukphone": "ˈfɜːnɪʃ",
+    "usphone": "ˈfɜːrnɪʃ"
+  },
+  {
+    "word": "fuss",
+    "pos": "n.",
+    "meaning": "大惊小怪",
+    "ukphone": "fʌs",
+    "usphone": "fʌs"
+  },
+  {
+    "word": "galaxy",
+    "pos": "n.",
+    "meaning": "星系",
+    "ukphone": "ˈɡæləksi",
+    "usphone": "ˈɡæləksi"
+  },
+  {
+    "word": "gamble",
+    "pos": "v.",
+    "meaning": "赌博",
+    "ukphone": "ˈɡæmbl",
+    "usphone": "ˈɡæmbl"
+  },
+  {
+    "word": "gap",
+    "pos": "n.",
+    "meaning": "差距",
+    "ukphone": "ɡæp",
+    "usphone": "ɡæp"
+  },
+  {
+    "word": "gasp",
+    "pos": "vi.",
+    "meaning": "喘气",
+    "ukphone": "ɡɑːsp",
+    "usphone": "ɡæsp"
+  },
+  {
+    "word": "gauge",
+    "pos": "n.",
+    "meaning": "测量仪",
+    "ukphone": "ɡeɪdʒ",
+    "usphone": "ɡeɪdʒ"
+  },
+  {
+    "word": "gaze",
+    "pos": "vi.",
+    "meaning": "凝视",
+    "ukphone": "ɡeɪz",
+    "usphone": "ɡeɪz"
+  },
+  {
+    "word": "genius",
+    "pos": "n.",
+    "meaning": "天才",
+    "ukphone": "ˈdʒiːniəs",
+    "usphone": "ˈdʒiːniəs"
+  },
+  {
+    "word": "genuine",
+    "pos": "a.",
+    "meaning": "真正的",
+    "ukphone": "ˈdʒenjuɪn",
+    "usphone": "ˈdʒenjuɪn"
+  },
+  {
+    "word": "gigantic",
+    "pos": "a.",
+    "meaning": "巨大的",
+    "ukphone": "dʒaɪˈɡæntɪk",
+    "usphone": "dʒaɪˈɡæntɪk"
+  },
+  {
+    "word": "glamour",
+    "pos": "n.",
+    "meaning": "魅力",
+    "ukphone": "ˈɡlæmə",
+    "usphone": "ˈɡlæmər"
+  },
+  {
+    "word": "gland",
+    "pos": "n.",
+    "meaning": "腺",
+    "ukphone": "ɡlænd",
+    "usphone": "ɡlænd"
+  },
+  {
+    "word": "glare",
+    "pos": "n.",
+    "meaning": "强光",
+    "ukphone": "ɡleə",
+    "usphone": "ɡler"
+  },
+  {
+    "word": "gleam",
+    "pos": "n.",
+    "meaning": "微光",
+    "ukphone": "ɡliːm",
+    "usphone": "ɡliːm"
+  },
+  {
+    "word": "glide",
+    "pos": "vi.",
+    "meaning": "滑行",
+    "ukphone": "ɡlaɪd",
+    "usphone": "ɡlaɪd"
+  },
+  {
+    "word": "glimpse",
+    "pos": "n.",
+    "meaning": "一瞥",
+    "ukphone": "ɡlɪmps",
+    "usphone": "ɡlɪmps"
+  },
+  {
+    "word": "glitter",
+    "pos": "vi.",
+    "meaning": "闪烁",
+    "ukphone": "ˈɡlɪtə",
+    "usphone": "ˈɡlɪtər"
+  },
+  {
+    "word": "gloom",
+    "pos": "n.",
+    "meaning": "忧郁",
+    "ukphone": "ɡluːm",
+    "usphone": "ɡluːm"
+  },
+  {
+    "word": "gorgeous",
+    "pos": "a.",
+    "meaning": "华丽的",
+    "ukphone": "ˈɡɔːdʒəs",
+    "usphone": "ˈɡɔːrdʒəs"
+  },
+  {
+    "word": "gossip",
+    "pos": "n.",
+    "meaning": "闲话",
+    "ukphone": "ˈɡɒsɪp",
+    "usphone": "ˈɡɑːsɪp"
+  },
+  {
+    "word": "govern",
+    "pos": "vt.",
+    "meaning": "统治",
+    "ukphone": "ˈɡʌvn",
+    "usphone": "ˈɡʌvərn"
+  },
+  {
+    "word": "grab",
+    "pos": "vt.",
+    "meaning": "抓住",
+    "ukphone": "ɡræb",
+    "usphone": "ɡræb"
+  },
+  {
+    "word": "grace",
+    "pos": "n.",
+    "meaning": "优雅",
+    "ukphone": "ɡreɪs",
+    "usphone": "ɡreɪs"
+  },
+  {
+    "word": "gracious",
+    "pos": "a.",
+    "meaning": "亲切的",
+    "ukphone": "ˈɡreɪʃəs",
+    "usphone": "ˈɡreɪʃəs"
+  },
+  {
+    "word": "grant",
+    "pos": "vt.",
+    "meaning": "授予",
+    "ukphone": "ɡrɑːnt",
+    "usphone": "ɡrænt"
+  },
+  {
+    "word": "graphic",
+    "pos": "a.",
+    "meaning": "图形的",
+    "ukphone": "ˈɡræfɪk",
+    "usphone": "ˈɡræfɪk"
+  },
+  {
+    "word": "grasp",
+    "pos": "vt.",
+    "meaning": "抓住",
+    "ukphone": "ɡrɑːsp",
+    "usphone": "ɡræsp"
+  },
+  {
+    "word": "gratitude",
+    "pos": "n.",
+    "meaning": "感激",
+    "ukphone": "ˈɡrætɪtjuːd",
+    "usphone": "ˈɡrætɪtuːd"
+  },
+  {
+    "word": "grave",
+    "pos": "a.",
+    "meaning": "严重的",
+    "ukphone": "ɡreɪv",
+    "usphone": "ɡreɪv"
+  },
+  {
+    "word": "graze",
+    "pos": "vi.",
+    "meaning": "吃草",
+    "ukphone": "ɡreɪz",
+    "usphone": "ɡreɪz"
+  },
+  {
+    "word": "grieve",
+    "pos": "v.",
+    "meaning": "悲痛",
+    "ukphone": "ɡriːv",
+    "usphone": "ɡriːv"
+  },
+  {
+    "word": "grim",
+    "pos": "a.",
+    "meaning": "严峻的",
+    "ukphone": "ɡrɪm",
+    "usphone": "ɡrɪm"
+  },
+  {
+    "word": "grin",
+    "pos": "vi.",
+    "meaning": "露齿而笑",
+    "ukphone": "ɡrɪn",
+    "usphone": "ɡrɪn"
+  },
+  {
+    "word": "groan",
+    "pos": "vi.",
+    "meaning": "呻吟",
+    "ukphone": "ɡrəʊn",
+    "usphone": "ɡroʊn"
+  },
+  {
+    "word": "grope",
+    "pos": "vi.",
+    "meaning": "摸索",
+    "ukphone": "ɡrəʊp",
+    "usphone": "ɡroʊp"
+  },
+  {
+    "word": "guarantee",
+    "pos": "n.",
+    "meaning": "保证",
+    "ukphone": "ˌɡærənˈtiː",
+    "usphone": "ˌɡærənˈtiː"
+  },
+  {
+    "word": "guardian",
+    "pos": "n.",
+    "meaning": "监护人",
+    "ukphone": "ˈɡɑːdiən",
+    "usphone": "ˈɡɑːrdiən"
+  },
+  {
+    "word": "guideline",
+    "pos": "n.",
+    "meaning": "指南",
+    "ukphone": "ˈɡaɪdlaɪn",
+    "usphone": "ˈɡaɪdlaɪn"
+  },
+  {
+    "word": "habitat",
+    "pos": "n.",
+    "meaning": "栖息地",
+    "ukphone": "ˈhæbɪtæt",
+    "usphone": "ˈhæbɪtæt"
+  },
+  {
+    "word": "halt",
+    "pos": "n.",
+    "meaning": "停止",
+    "ukphone": "hɔːlt",
+    "usphone": "hɔːlt"
+  },
+  {
+    "word": "hamper",
+    "pos": "vt.",
+    "meaning": "阻碍",
+    "ukphone": "ˈhæmpə",
+    "usphone": "ˈhæmpər"
+  },
+  {
+    "word": "handbook",
+    "pos": "n.",
+    "meaning": "手册",
+    "ukphone": "ˈhændbʊk",
+    "usphone": "ˈhændbʊk"
+  },
+  {
+    "word": "handicap",
+    "pos": "n.",
+    "meaning": "残疾；障碍",
+    "ukphone": "ˈhændikæp",
+    "usphone": "ˈhændikæp"
+  },
+  {
+    "word": "harass",
+    "pos": "vt.",
+    "meaning": "骚扰",
+    "ukphone": "ˈhærəs",
+    "usphone": "həˈræs"
+  },
+  {
+    "word": "harbor",
+    "pos": "n.",
+    "meaning": "港口",
+    "ukphone": "ˈhɑːbə",
+    "usphone": "ˈhɑːrbər"
+  },
+  {
+    "word": "harsh",
+    "pos": "a.",
+    "meaning": "严厉的",
+    "ukphone": "hɑːʃ",
+    "usphone": "hɑːrʃ"
+  },
+  {
+    "word": "hasty",
+    "pos": "a.",
+    "meaning": "匆忙的",
+    "ukphone": "ˈheɪsti",
+    "usphone": "ˈheɪsti"
+  },
+  {
+    "word": "hatch",
+    "pos": "v.",
+    "meaning": "孵化",
+    "ukphone": "hætʃ",
+    "usphone": "hætʃ"
+  },
+  {
+    "word": "haul",
+    "pos": "vt.",
+    "meaning": "拖，拉",
+    "ukphone": "hɔːl",
+    "usphone": "hɔːl"
+  },
+  {
+    "word": "haunt",
+    "pos": "vt.",
+    "meaning": "萦绕",
+    "ukphone": "hɔːnt",
+    "usphone": "hɔːnt"
+  },
+  {
+    "word": "hazard",
+    "pos": "n.",
+    "meaning": "危险",
+    "ukphone": "ˈhæzəd",
+    "usphone": "ˈhæzərd"
+  },
+  {
+    "word": "headquarters",
+    "pos": "n.",
+    "meaning": "总部",
+    "ukphone": "ˌhedˈkwɔːtəz",
+    "usphone": "ˈhedkwɔːrtərz"
+  },
+  {
+    "word": "heap",
+    "pos": "n.",
+    "meaning": "堆",
+    "ukphone": "hiːp",
+    "usphone": "hiːp"
+  },
+  {
+    "word": "heave",
+    "pos": "v.",
+    "meaning": "举起",
+    "ukphone": "hiːv",
+    "usphone": "hiːv"
+  },
+  {
+    "word": "hedge",
+    "pos": "n.",
+    "meaning": "树篱",
+    "ukphone": "hedʒ",
+    "usphone": "hedʒ"
+  },
+  {
+    "word": "heighten",
+    "pos": "v.",
+    "meaning": "提高",
+    "ukphone": "ˈhaɪtn",
+    "usphone": "ˈhaɪtn"
+  },
+  {
+    "word": "heir",
+    "pos": "n.",
+    "meaning": "继承人",
+    "ukphone": "eə",
+    "usphone": "er"
+  },
+  {
+    "word": "hemisphere",
+    "pos": "n.",
+    "meaning": "半球",
+    "ukphone": "ˈhemɪsfɪə",
+    "usphone": "ˈhemɪsfɪr"
+  },
+  {
+    "word": "hence",
+    "pos": "ad.",
+    "meaning": "因此",
+    "ukphone": "hens",
+    "usphone": "hens"
+  },
+  {
+    "word": "herald",
+    "pos": "n.",
+    "meaning": "预兆",
+    "ukphone": "ˈherəld",
+    "usphone": "ˈherəld"
+  },
+  {
+    "word": "heritage",
+    "pos": "n.",
+    "meaning": "遗产",
+    "ukphone": "ˈherɪtɪdʒ",
+    "usphone": "ˈherɪtɪdʒ"
+  },
+  {
+    "word": "hierarchy",
+    "pos": "n.",
+    "meaning": "等级制度",
+    "ukphone": "ˈhaɪərɑːki",
+    "usphone": "ˈhaɪərɑːrki"
+  },
+  {
+    "word": "highlight",
+    "pos": "vt.",
+    "meaning": "强调",
+    "ukphone": "ˈhaɪlaɪt",
+    "usphone": "ˈhaɪlaɪt"
+  },
+  {
+    "word": "hike",
+    "pos": "n.",
+    "meaning": "徒步",
+    "ukphone": "haɪk",
+    "usphone": "haɪk"
+  },
+  {
+    "word": "hinder",
+    "pos": "vt.",
+    "meaning": "阻碍",
+    "ukphone": "ˈhɪndə",
+    "usphone": "ˈhɪndər"
+  },
+  {
+    "word": "hinge",
+    "pos": "n.",
+    "meaning": "铰链",
+    "ukphone": "hɪndʒ",
+    "usphone": "hɪndʒ"
+  },
+  {
+    "word": "hint",
+    "pos": "n.",
+    "meaning": "暗示",
+    "ukphone": "hɪnt",
+    "usphone": "hɪnt"
+  },
+  {
+    "word": "hoist",
+    "pos": "vt.",
+    "meaning": "升起",
+    "ukphone": "hɔɪst",
+    "usphone": "hɔɪst"
+  },
+  {
+    "word": "hollow",
+    "pos": "a.",
+    "meaning": "空的",
+    "ukphone": "ˈhɒləʊ",
+    "usphone": "ˈhɑːloʊ"
+  },
+  {
+    "word": "homogeneous",
+    "pos": "a.",
+    "meaning": "同质的",
+    "ukphone": "ˌhɒməˈdʒiːniəs",
+    "usphone": "ˌhoʊməˈdʒiːniəs"
+  },
+  {
+    "word": "horizon",
+    "pos": "n.",
+    "meaning": "地平线",
+    "ukphone": "həˈraɪzn",
+    "usphone": "həˈraɪzn"
+  },
+  {
+    "word": "hospitable",
+    "pos": "a.",
+    "meaning": "好客的",
+    "ukphone": "hɒˈspɪtəbl",
+    "usphone": "hɑːˈspɪtəbl"
+  },
+  {
+    "word": "hostile",
+    "pos": "a.",
+    "meaning": "敌对的",
+    "ukphone": "ˈhɒstaɪl",
+    "usphone": "ˈhɑːstl"
+  },
+  {
+    "word": "household",
+    "pos": "n.",
+    "meaning": "家庭",
+    "ukphone": "ˈhaʊshəʊld",
+    "usphone": "ˈhaʊshoʊld"
+  },
+  {
+    "word": "hover",
+    "pos": "vi.",
+    "meaning": "盘旋",
+    "ukphone": "ˈhɒvə",
+    "usphone": "ˈhʌvər"
+  },
+  {
+    "word": "huddle",
+    "pos": "vi.",
+    "meaning": "挤在一起",
+    "ukphone": "ˈhʌdl",
+    "usphone": "ˈhʌdl"
+  },
+  {
+    "word": "hug",
+    "pos": "vt.",
+    "meaning": "拥抱",
+    "ukphone": "hʌɡ",
+    "usphone": "hʌɡ"
+  },
+  {
+    "word": "humanity",
+    "pos": "n.",
+    "meaning": "人性；人类",
+    "ukphone": "hjuːˈmænəti",
+    "usphone": "hjuːˈmænəti"
+  },
+  {
+    "word": "humble",
+    "pos": "a.",
+    "meaning": "谦逊的",
+    "ukphone": "ˈhʌmbl",
+    "usphone": "ˈhʌmbl"
+  },
+  {
+    "word": "hurricane",
+    "pos": "n.",
+    "meaning": "飓风",
+    "ukphone": "ˈhʌrɪkən",
+    "usphone": "ˈhɜːrəkeɪn"
+  },
+  {
+    "word": "hypothesis",
+    "pos": "n.",
+    "meaning": "假设",
+    "ukphone": "haɪˈpɒθəsɪs",
+    "usphone": "haɪˈpɑːθəsɪs"
+  },
+  {
+    "word": "hysterical",
+    "pos": "a.",
+    "meaning": "歇斯底里的",
+    "ukphone": "hɪˈsterɪkl",
+    "usphone": "hɪˈsterɪkl"
+  }
+]
