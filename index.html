@@ -383,7 +383,7 @@ var wordIndex=null;
 function buildWordIndex(){wordIndex={};for(var i=0;i<words.length;i++)wordIndex[words[i].word]=words[i]}
 
 function defaultData(){return{today:'',todaySwiped:0,totalSwiped:0,rounds:0,streakDays:0,checkInDates:[],orderSwiped:0,shuffleSwiped:0,bookmarks:[],progress:{orderIndex:0,shuffleIndex:0,shuffleOrder:[]}}}
-function defaultSettings(){return{trackMode:'both',dailyGoal:50,ttsEnabled:true,goalSet:false,theme:'light'}}
+function defaultSettings(){return{trackMode:'both',dailyGoal:50,ttsEnabled:true,goalSet:false}}
 
 function todayStr(){return new Date().toISOString().slice(0,10)}
 
@@ -473,12 +473,12 @@ async function loadAll(){
         if(up){username=up.username;if(up.activeBank)currentBank=up.activeBank}
         data=(await dbGet('data',dataKey()))||defaultData();
         var s=(await dbGet('settings',settingsKey()))||defaultSettings();
-        for(var k in s)settings[k]=s[k];
+        for(var k in s)if(k!=='theme')settings[k]=s[k];
     }
 }
 
 async function saveData(){if(!uid)return;try{await dbPut('data',dataKey(),data)}catch(e){}}
-async function saveSettings(){if(!uid)return;try{await dbPut('settings',settingsKey(),settings)}catch(e){}}
+async function saveSettings(){if(!uid)return;var s={};for(var k in settings)if(k!=='theme')s[k]=settings[k];try{await dbPut('settings',settingsKey(),s)}catch(e){}}
 async function saveProfile(){if(!uid)return;try{await dbPut('profile','active',uid);await dbPut('profile','user:'+uid,{username:username,uid:uid,activeBank:currentBank,createdAt:new Date().toISOString()})}catch(e){}}
 
 // === New day check ===
@@ -836,9 +836,10 @@ document.getElementById('favBtn').addEventListener('click',function(e){
     e.stopPropagation();toggleBookmark();
 });
 
-var spTouchStartX=0,spTouchStartY=0,spTouchTime=0,spTouchMoved=false,spTouchActive=false;
+var spTouchStartX=0,spTouchStartY=0,spTouchTime=0,spTouchMoved=false,spTouchActive=false,spTouchTimer=null;
 document.getElementById('study-page').addEventListener('touchstart',function(e){
     if(e.target.closest('button'))return;
+    if(spTouchTimer)clearTimeout(spTouchTimer);
     spTouchActive=true;spTouchMoved=false;
     var t=e.touches[0];
     spTouchStartX=t.clientX;spTouchStartY=t.clientY;spTouchTime=Date.now();
@@ -858,7 +859,7 @@ document.getElementById('study-page').addEventListener('touchend',function(e){
             else if(spTouchStartX>15)prevWord();
         }else if(dy<0)toggleBookmark();
     }
-    setTimeout(function(){spTouchActive=false},50);
+    spTouchTimer=setTimeout(function(){spTouchActive=false;spTouchTimer=null},50);
 });
 document.addEventListener('gesturestart',function(e){e.preventDefault()});
 document.getElementById('study-page').addEventListener('click',function(e){
@@ -1018,7 +1019,7 @@ async function switchBank(bank){
     index=0;shuffled=[];bookmarkWords=[];studyMode='order';
     data=(await dbGet('data',dataKey()))||defaultData();
     var s=(await dbGet('settings',settingsKey()))||defaultSettings();
-    for(var k in s)settings[k]=s[k];
+    for(var k in s)if(k!=='theme')settings[k]=s[k];
     await loadWords(bank);
     await checkNewDay();
     updateMyPage();showHomeWord();
@@ -1071,19 +1072,14 @@ async function init(){
         document.getElementById('usernameModal').classList.add('show');
     }
 
-    var theme=settings.theme;
+    var theme=await dbGet('settings','theme:'+uid);
     if(!theme){
-        theme=await dbGet('settings','theme:'+uid);
-        if(!theme){
-            theme=window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';
-            themeExplicitlySet=false;
-        }else{
-            themeExplicitlySet=true;
-        }
-        settings.theme=theme;
+        theme=window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';
+        themeExplicitlySet=false;
     }else{
         themeExplicitlySet=true;
     }
+    settings.theme=theme;
     if(theme==='dark'){
         document.documentElement.classList.add('dark');
         document.getElementById('themeBtn').textContent='浅色';
