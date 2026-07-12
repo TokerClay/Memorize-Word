@@ -174,3 +174,10 @@
 *.lz
 *.lzma
 *.iso
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
